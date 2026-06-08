@@ -1,0 +1,14 @@
+# SerpAPI response cache — re-creatable, never commit (keyed on params, never the key)
+cache/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Empty scratch stub
+parse_json.py
+
+# Never commit a key, even if one is ever written to a file by mistake
+*.key
+.env

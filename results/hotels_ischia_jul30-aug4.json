@@ -1,0 +1,1818 @@
+{
+  "success": true,
+  "count": 57,
+  "total_available": 3100,
+  "hotels": [
+    {
+      "name": "Hotel Bellavista Ischia",
+      "hotel_id": "0x133b41bad80d6c73:0x360205883f63e6f0",
+      "rating": 9,
+      "review_count": 208,
+      "stars": 2,
+      "price": 34,
+      "currency": "EUR",
+      "address": "",
+      "description": "Simple rooms in a relaxed guesthouse offering free breakfast, sea views & an outdoor pool.",
+      "lat": 40.7075849,
+      "lon": 13.880649799999999,
+      "distance_km": 6.3360688288975835,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "ev_charger",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "breakfast"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 34,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Terme Alexander",
+      "hotel_id": "0x133b6ad0447b972b:0x5be09e6dcfabc8a8",
+      "rating": 7.8,
+      "review_count": 394,
+      "stars": 4,
+      "price": 46,
+      "currency": "EUR",
+      "address": "",
+      "description": "Airy, upmarket option featuring relaxed rooms, a full-service spa & a restaurant/bar with a terrace.",
+      "lat": 40.7419319,
+      "lon": 13.951073599999999,
+      "distance_km": 0.9213504300828878,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "ev_charger",
+        "spa",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "laundry",
+        "fitness_center",
+        "accessible",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 46,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Internazionale Ischia",
+      "hotel_id": "0x133b6a9220b9d33f:0x2c12f08ba3913514",
+      "rating": 7.6,
+      "review_count": 206,
+      "stars": 3,
+      "price": 50,
+      "currency": "EUR",
+      "address": "",
+      "description": "Casual hillside hotel overlooking the gulf, offering a lagoon-style outdoor pool & a relaxed eatery.",
+      "lat": 40.725077999999996,
+      "lon": 13.931125999999999,
+      "distance_km": 1.6874295053789516,
+      "amenities": [
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "pool",
+        "air_conditioning",
+        "kitchen",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 79,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 50,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 29,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Hotel Gemma",
+      "hotel_id": "",
+      "rating": 9,
+      "review_count": 350,
+      "stars": 3,
+      "price": 60,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.749610000000004,
+      "lon": 13.922276,
+      "distance_km": 2.704965583970879,
+      "amenities": [
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "airport_shuttle",
+        "pool",
+        "air_conditioning",
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 60,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Villa Maria Sant'Angelo d'Ischia",
+      "hotel_id": "0x133b41c03958362f:0xbb820d6604b692f2",
+      "rating": 9.6,
+      "review_count": 156,
+      "stars": 3,
+      "price": 70,
+      "currency": "EUR",
+      "address": "",
+      "description": "Modest rooms in a casual, seasonal hotel with sea views, an open-air restaurant & free breakfast.",
+      "lat": 40.699395200000005,
+      "lon": 13.891718,
+      "distance_km": 6.065305247500419,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "accessible",
+        "breakfast",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 70,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Residence Sant'angelo",
+      "hotel_id": "0x133b41bd5253d2ab:0xe124441a14cea449",
+      "rating": 9.2,
+      "review_count": 272,
+      "stars": 3,
+      "price": 74,
+      "currency": "EUR",
+      "address": "",
+      "description": "Bright studios & 1-bedroom apartments in an airy lodging with 2 pools, a hot tub & a terrace bar.",
+      "lat": 40.7011883,
+      "lon": 13.8868096,
+      "distance_km": 6.270413693218061,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "free_parking",
+        "pet_friendly",
+        "air_conditioning",
+        "accessible",
+        "pool",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 74,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Angelino",
+      "hotel_id": "0x133b6a768a54b0b7:0x5cafba4a9597d40f",
+      "rating": 8.4,
+      "review_count": 113,
+      "stars": 1,
+      "price": 77,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.701685,
+      "lon": 13.903321,
+      "distance_km": 5.167651571833981,
+      "amenities": [
+        "kitchen",
+        "airport_shuttle",
+        "restaurant",
+        "ev_charger",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 77,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "VILLA MATILDE B&B",
+      "hotel_id": "",
+      "rating": 9.8,
+      "review_count": 147,
+      "stars": 0,
+      "price": 78,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.732571,
+      "lon": 13.944127,
+      "distance_km": 0.31116288440812123,
+      "amenities": [
+        "accessible",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 78,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Albachiara Ischia",
+      "hotel_id": "",
+      "rating": 0,
+      "review_count": 0,
+      "stars": 0,
+      "price": 82,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.71943664550781,
+      "lon": 13.934529304504395,
+      "distance_km": 1.9553198177672375,
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 82,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Italia Ischia - Beach hotel",
+      "hotel_id": "0x133b6aabe7986f61:0x1c2bab7d15d96001",
+      "rating": 7,
+      "review_count": 161,
+      "stars": 4,
+      "price": 85,
+      "currency": "EUR",
+      "address": "",
+      "description": "Modest hotel offering a restaurant & a leafy garden with a pool, plus a cliffside, seafront terrace.",
+      "lat": 40.7501715,
+      "lon": 13.9183194,
+      "distance_km": 3.0068836267884507,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "ev_charger",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 85,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "La Capannina Hotel Ristorante Pizzeria",
+      "hotel_id": "",
+      "rating": 9,
+      "review_count": 883,
+      "stars": 3,
+      "price": 89,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.719992,
+      "lon": 13.952853999999999,
+      "distance_km": 1.6525029758786711,
+      "amenities": [
+        "accessible",
+        "free_parking",
+        "airport_shuttle",
+        "pool",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 89,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Paradise",
+      "hotel_id": "0x133b401e82eef5db:0x3f521695114349f0",
+      "rating": 9.2,
+      "review_count": 403,
+      "stars": 3,
+      "price": 90,
+      "currency": "EUR",
+      "address": "",
+      "description": "Bright rooms, some with balconies, plus sea views, a low-key restaurant & indoor & outdoor pools.",
+      "lat": 40.7470457,
+      "lon": 13.9015554,
+      "distance_km": 4.096115996310732,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "bar",
+        "pool",
+        "free_parking",
+        "air_conditioning"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 90,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Rivamare",
+      "hotel_id": "0x133b6acfe734f275:0x3fc048e6a24f361f",
+      "rating": 9,
+      "review_count": 198,
+      "stars": 3,
+      "price": 90,
+      "currency": "EUR",
+      "address": "Via Enea, 26",
+      "description": "Relaxed rooms in a low-key hotel featuring direct beach access, plus a bar & free breakfast.",
+      "lat": 40.7422937,
+      "lon": 13.9486092,
+      "distance_km": 0.9080734910415376,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "pool",
+        "free_parking",
+        "breakfast",
+        "accessible",
+        "bar"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-rivamare-ischia?search=100-1108906;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 90,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 133,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-rivamare-ischia?search=100-1108906;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 43,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Ischia Hotel Parco dei Principi",
+      "hotel_id": "0x133b405400000001:0x8b0c07171be84413",
+      "rating": 7.4,
+      "review_count": 620,
+      "stars": 4,
+      "price": 94,
+      "currency": "EUR",
+      "address": "",
+      "description": "Relaxed rooms, some with sea views, in a stone-built hotel featuring pools, a day spa & an eatery.",
+      "lat": 40.750329,
+      "lon": 13.873361,
+      "distance_km": 6.467873685573592,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 94,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 103,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 9,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Hotel Villa Durrueli Resort & Spa Ischia",
+      "hotel_id": "0x133b6adb8a8fd129:0xc50e828c9c3236b7",
+      "rating": 8.8,
+      "review_count": 709,
+      "stars": 4,
+      "price": 94,
+      "currency": "EUR",
+      "address": "",
+      "description": "Bright rooms, some with sea views, in a high-end property offering a spa, 2 pools & 2 restaurants.",
+      "lat": 40.7361297,
+      "lon": 13.953596099999999,
+      "distance_km": 0.5857295358226106,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "fitness_center",
+        "restaurant",
+        "spa"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 94,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 131,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 37,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Hotel Bagnitiello F.lli Lombardo Srl",
+      "hotel_id": "",
+      "rating": 8.4,
+      "review_count": 243,
+      "stars": 1,
+      "price": 98,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.749531999999995,
+      "lon": 13.922906,
+      "distance_km": 2.6585327368687697,
+      "amenities": [
+        "bar",
+        "accessible",
+        "free_parking",
+        "pool",
+        "paid_parking",
+        "air_conditioning",
+        "kitchen",
+        "restaurant",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 98,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Grand Hotel Terme di Augusto",
+      "hotel_id": "0x47789e7bb48e8d43:0xa0e05c617f3aa1f7",
+      "rating": 6.8,
+      "review_count": 684,
+      "stars": 5,
+      "price": 98,
+      "currency": "EUR",
+      "address": "",
+      "description": "Casual hotel featuring a rooftop garden, a thermal spa & 2 restaurants, plus indoor & outdoor pools.",
+      "lat": 40.751787199999995,
+      "lon": 13.888594399999999,
+      "distance_km": 5.304415739140002,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "fitness_center",
+        "accessible",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 98,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Villa Luna di Miele",
+      "hotel_id": "",
+      "rating": 9.2,
+      "review_count": 99,
+      "stars": 1,
+      "price": 99,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.749216,
+      "lon": 13.919571,
+      "distance_km": 2.859159428341699,
+      "amenities": [
+        "ev_charger",
+        "airport_shuttle",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 99,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Villa Ireos",
+      "hotel_id": "",
+      "rating": 9.6,
+      "review_count": 263,
+      "stars": 3,
+      "price": 107,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.744499,
+      "lon": 13.930474,
+      "distance_km": 1.810586009074091,
+      "amenities": [
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "pool",
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 107,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 117,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 10,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Hotel San Giovanni Terme",
+      "hotel_id": "0x133b6adb451eb073:0x740e60beddaa31c6",
+      "rating": 8.2,
+      "review_count": 211,
+      "stars": 4,
+      "price": 111,
+      "currency": "EUR",
+      "address": "",
+      "description": "Bright rooms with balconies, plus an outdoor pool with geothermal water, a spa, a restaurant & bars.",
+      "lat": 40.7383155,
+      "lon": 13.951333900000002,
+      "distance_km": 0.5785026647654472,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "ev_charger",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "accessible",
+        "spa"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 111,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Villa Abelarda - Villa with Sea View",
+      "hotel_id": "",
+      "rating": 10,
+      "review_count": 2,
+      "stars": 0,
+      "price": 114,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.74605941772461,
+      "lon": 13.924220085144043,
+      "distance_km": 2.3369648664313654,
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 114,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Noris",
+      "hotel_id": "",
+      "rating": 8.6,
+      "review_count": 273,
+      "stars": 3,
+      "price": 114,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.733813999999995,
+      "lon": 13.955304,
+      "distance_km": 0.6905133110669761,
+      "amenities": [
+        "airport_shuttle",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 114,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "La Terrazzina sul tramonto",
+      "hotel_id": "",
+      "rating": 4.75,
+      "review_count": 147,
+      "stars": 3,
+      "price": 118,
+      "currency": "EUR",
+      "address": "Via Bocca, 46",
+      "lat": 40.72652053833008,
+      "lon": 13.867679595947266,
+      "distance_km": 6.748562006002038,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-la-terrazzina-sul-tramonto-ischia?search=100-6462866;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 118,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-la-terrazzina-sul-tramonto-ischia?search=100-6462866;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Excelsior Mare Suite - Studio with Sea View (3 Adults)",
+      "hotel_id": "",
+      "rating": 9.8,
+      "review_count": 8,
+      "stars": 0,
+      "price": 121,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.74858856201172,
+      "lon": 13.913399696350098,
+      "distance_km": 3.260520277971352,
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 121,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "U Campagnuolo",
+      "hotel_id": "",
+      "rating": 4.6,
+      "review_count": 390,
+      "stars": 3,
+      "price": 124,
+      "currency": "EUR",
+      "address": "Lungomare Cristoforo Colombo, 23",
+      "lat": 40.73945999145508,
+      "lon": 13.954540252685547,
+      "distance_km": 0.855436242918334,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-u-campagnuolo-ischia?search=100-3205808;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 124,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-u-campagnuolo-ischia?search=100-3205808;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "B&B HOTEL Ischia San Nicola",
+      "hotel_id": "",
+      "rating": 4.15,
+      "review_count": 1394,
+      "stars": 3,
+      "price": 128,
+      "currency": "EUR",
+      "address": "Via Parroco d'Abundo 69 80075 Forio",
+      "lat": 40.70928955078125,
+      "lon": 13.879369735717773,
+      "distance_km": 6.346577335441957,
+      "booking_url": "https://www.trivago.com/en-US/lm/b-b-hotel-ischia-san-nicola?search=100-11306564;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 128,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/b-b-hotel-ischia-san-nicola?search=100-11306564;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Restaurant Da Maria",
+      "hotel_id": "0x133b6afacec0af6b:0xc7245e3e338aea25",
+      "rating": 8.8,
+      "review_count": 189,
+      "stars": 4,
+      "price": 128,
+      "currency": "EUR",
+      "address": "Via Cartaromana, 79",
+      "description": "Low-key hotel with a restaurant, sea views & a pool, plus private beach access & a ferry shuttle.",
+      "lat": 40.7233134,
+      "lon": 13.958737699999999,
+      "distance_km": 1.5570077156175421,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "accessible"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-da-maria-ischia?search=100-23051;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 128,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 129,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-da-maria-ischia?search=100-23051;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 1,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Hotel Europa Ischia 3 stars",
+      "hotel_id": "0x133b6adc44442ddb:0xb7ba50b315ee4e4a",
+      "rating": 8.8,
+      "review_count": 417,
+      "stars": 3,
+      "price": 129,
+      "currency": "EUR",
+      "address": "",
+      "description": "Relaxed rooms, some with sea views, in a low-key property with a restaurant & an outdoor pool.",
+      "lat": 40.734531200000006,
+      "lon": 13.9538397,
+      "distance_km": 0.5669232291377303,
+      "amenities": [
+        "accessible",
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "pool",
+        "free_parking"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 129,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Lemon Garden Forio D'Ischia",
+      "hotel_id": "",
+      "rating": 10,
+      "review_count": 3,
+      "stars": 0,
+      "price": 129,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.73450469970703,
+      "lon": 13.866839408874512,
+      "distance_km": 6.764720906147991,
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 129,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 142,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 13,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Casa Vacanze Parco Del Generale",
+      "hotel_id": "",
+      "rating": 9.467391,
+      "review_count": 253,
+      "stars": 0,
+      "price": 133,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.739498138427734,
+      "lon": 13.86266040802002,
+      "distance_km": 7.140780034649329,
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 133,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel L'Oasi",
+      "hotel_id": "",
+      "rating": 8.6,
+      "review_count": 116,
+      "stars": 4,
+      "price": 134,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.746966,
+      "lon": 13.926971,
+      "distance_km": 2.2128066146115186,
+      "amenities": [
+        "bar",
+        "airport_shuttle",
+        "kitchen",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 134,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Residence Villa Teresa - Apartment, 1 Bedroom, Sea View",
+      "hotel_id": "",
+      "rating": 10,
+      "review_count": 6,
+      "stars": 0,
+      "price": 136,
+      "currency": "EUR",
+      "address": "",
+      "lat": 40.74509811401367,
+      "lon": 13.900099754333496,
+      "distance_km": 4.14292165277883,
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 136,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Regina Palace Terme",
+      "hotel_id": "",
+      "rating": 8,
+      "review_count": 423,
+      "stars": 4,
+      "price": 136,
+      "currency": "EUR",
+      "address": "Via Edgardo Cortese, 20",
+      "lat": 40.739236999999996,
+      "lon": 13.950085999999999,
+      "distance_km": 0.6126301122676518,
+      "amenities": [
+        "bar",
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "pool",
+        "paid_parking",
+        "air_conditioning",
+        "kitchen",
+        "restaurant",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-regina-palace-terme-ischia?search=100-22977;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 136,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 235,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-regina-palace-terme-ischia?search=100-22977;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 99,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Nettuno Hotel di Charme Ischia",
+      "hotel_id": "0x133b40ee2677265d:0x68fe25345b73430",
+      "rating": 9.2,
+      "review_count": 282,
+      "stars": 4,
+      "price": 141,
+      "currency": "EUR",
+      "address": "",
+      "description": "Elegant rooms, some with sea-view balconies, plus free Wi-Fi, breakfast, a pool & a hot tub.",
+      "lat": 40.7358989,
+      "lon": 13.85599,
+      "distance_km": 7.681008797739047,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "pool",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 141,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Solemar Terme Beach & Beauty",
+      "hotel_id": "",
+      "rating": 8.2,
+      "review_count": 432,
+      "stars": 4,
+      "price": 144,
+      "currency": "EUR",
+      "address": "Via Battistessa, 43",
+      "lat": 40.742689,
+      "lon": 13.947875999999999,
+      "distance_km": 0.9454972763681565,
+      "amenities": [
+        "bar",
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "airport_shuttle",
+        "pool",
+        "paid_parking",
+        "air_conditioning",
+        "spa",
+        "kitchen",
+        "restaurant",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-solemare-beach-beauty-spa-ischia?search=100-4788580;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 144,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 156,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 247,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-solemare-beach-beauty-spa-ischia?search=100-4788580;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 103,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Grifo Hotel",
+      "hotel_id": "0x133b6aaf21cf3fed:0x1a6c2f08e5779385",
+      "rating": 9.6,
+      "review_count": 543,
+      "stars": 4,
+      "price": 144,
+      "currency": "EUR",
+      "address": "",
+      "description": "Relaxed hotel offering sea views, a spa & pools, plus a restaurant & a breakfast buffet.",
+      "lat": 40.7469058,
+      "lon": 13.921567999999999,
+      "distance_km": 2.5749934609825234,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "ev_charger",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "accessible",
+        "spa"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 144,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Da Raffaele",
+      "hotel_id": "0x133b6acf70a41043:0xfe2248028222bb2b",
+      "rating": 9,
+      "review_count": 228,
+      "stars": 3,
+      "price": 144,
+      "currency": "EUR",
+      "address": "",
+      "description": "Straightforward rooms in a laid-back hotel on a lively street, offering a restaurant.",
+      "lat": 40.742551999999996,
+      "lon": 13.945974999999999,
+      "distance_km": 0.9331875689925219,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "accessible",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 144,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "HOTEL FLORA ISCHIA",
+      "hotel_id": "0x133b6ac5855e073d:0x338b5b155442375c",
+      "rating": 8,
+      "review_count": 418,
+      "stars": 3,
+      "price": 150,
+      "currency": "EUR",
+      "address": "",
+      "description": "Bright rooms & suites in a charming hotel with a spa & a restaurant, plus indoor & outdoor pools.",
+      "lat": 40.741299999999995,
+      "lon": 13.945718399999999,
+      "distance_km": 0.7977794468300585,
+      "amenities": [
+        "kitchen",
+        "airport_shuttle",
+        "restaurant",
+        "free_wifi",
+        "ev_charger",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 150,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Romantica Resort & Spa",
+      "hotel_id": "0x133b6aceb3f7a98d:0x7a448ec807a84e78",
+      "rating": 9,
+      "review_count": 715,
+      "stars": 4,
+      "price": 150,
+      "currency": "EUR",
+      "address": "",
+      "description": "Sleek resort offering spa treatments, 10 geothermal pools & 4 restaurants, plus walking tours.",
+      "lat": 40.702330599999996,
+      "lon": 13.8902495,
+      "distance_km": 5.9613639346772995,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 150,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Giardino Eden Resort",
+      "hotel_id": "0x133b6ae1b46a75e5:0x7d37874e61095f9e",
+      "rating": 8.6,
+      "review_count": 636,
+      "stars": 3,
+      "price": 150,
+      "currency": "EUR",
+      "address": "",
+      "description": "Bright rooms, some with balconies and gulf views, in a polished hotel featuring a beach club.",
+      "lat": 40.727241299999996,
+      "lon": 13.9599025,
+      "distance_km": 1.3261863686681608,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 150,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Il Monastero",
+      "hotel_id": "0x133b6b207b2efd05:0xb80c26ef76f81187",
+      "rating": 9.4,
+      "review_count": 190,
+      "stars": 3,
+      "price": 150,
+      "currency": "EUR",
+      "address": "",
+      "description": "Rustic hotel in a 16th-century monastery with sea views, plus a restaurant & a garden.",
+      "lat": 40.7316909,
+      "lon": 13.964390499999999,
+      "distance_km": 1.4813901702543488,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "accessible",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 150,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "La Scogliera",
+      "hotel_id": "0x133b406280a3fc6d:0x6966cf590a3d7d49",
+      "rating": 8.6,
+      "review_count": 206,
+      "stars": 4,
+      "price": 150,
+      "currency": "EUR",
+      "address": "",
+      "description": "Airy rooms with balconies in an elegant villa offering direct beach access, plus dining & a spa.",
+      "lat": 40.7465013,
+      "lon": 13.866303499999999,
+      "distance_km": 6.945098249643951,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "accessible",
+        "spa"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 150,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Punta Chiarito Resort",
+      "hotel_id": "0x133b419829b8b2b9:0xc8438560d4e24919",
+      "rating": 9.2,
+      "review_count": 630,
+      "stars": 4,
+      "price": 151,
+      "currency": "EUR",
+      "address": "",
+      "description": "Refined property featuring 3 thermal pools, elegant dining & relaxed rooms, plus sea views.",
+      "lat": 40.6986312,
+      "lon": 13.8791742,
+      "distance_km": 6.960187601730355,
+      "amenities": [
+        "kitchen",
+        "airport_shuttle",
+        "free_wifi",
+        "ev_charger",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 151,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Vittorio",
+      "hotel_id": "0x133b41c352a6a19d:0xf7a3557a0fae0dd",
+      "rating": 8.2,
+      "review_count": 275,
+      "stars": 3,
+      "price": 154,
+      "currency": "EUR",
+      "address": "",
+      "description": "Informal, seasonal hotel offering a private beach area & dining, plus a spa with thermal water.",
+      "lat": 40.7017239,
+      "lon": 13.9028227,
+      "distance_km": 5.1947268222535135,
+      "amenities": [
+        "kitchen",
+        "room_service",
+        "restaurant",
+        "ev_charger",
+        "bar",
+        "free_parking",
+        "air_conditioning",
+        "accessible",
+        "spa"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 154,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Panoramahotel by Imperamare",
+      "hotel_id": "",
+      "rating": 3.25,
+      "review_count": 704,
+      "stars": 3,
+      "price": 156,
+      "currency": "EUR",
+      "address": "SP270, n. 287",
+      "lat": 40.72249984741211,
+      "lon": 13.864089965820312,
+      "distance_km": 7.116956877419725,
+      "booking_url": "https://www.trivago.com/en-US/lm/panoramahotel-by-imperamare-ischia?search=100-108095;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 156,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/panoramahotel-by-imperamare-ischia?search=100-108095;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Don Felipe",
+      "hotel_id": "",
+      "rating": 4.45,
+      "review_count": 1458,
+      "stars": 3,
+      "price": 162,
+      "currency": "EUR",
+      "address": "Via Nuova Cartaromana, 121",
+      "lat": 40.72705078125,
+      "lon": 13.958840370178223,
+      "distance_km": 1.2678030919703558,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-don-felipe-ischia?search=100-178327;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 162,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-don-felipe-ischia?search=100-178327;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Terme Oriente",
+      "hotel_id": "",
+      "rating": 4.2,
+      "review_count": 1880,
+      "stars": 3,
+      "price": 164,
+      "currency": "EUR",
+      "address": "Via delle Terme, 5",
+      "lat": 40.74222946166992,
+      "lon": 13.945170402526855,
+      "distance_km": 0.9073488099210397,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-terme-oriente-ischia?search=100-23053;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 164,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-terme-oriente-ischia?search=100-23053;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Continental Terme",
+      "hotel_id": "0x133b6ae9f2a0993d:0x5f6e29c4f5eb9d84",
+      "rating": 8.8,
+      "review_count": 1157,
+      "stars": 4,
+      "price": 166,
+      "currency": "EUR",
+      "address": "Via Michele Mazzella, 70",
+      "description": "Refined quarters in a posh spa hotel with fine dining & a piano bar, plus a spa with thermal pools.",
+      "lat": 40.730957,
+      "lon": 13.9443812,
+      "distance_km": 0.42882008510061376,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "fitness_center",
+        "accessible"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-continental-terme-ischia?search=100-45605;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 218,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 166,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-continental-terme-ischia?search=100-45605;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 52,
+      "cheapest_source": "trivago"
+    },
+    {
+      "name": "Hotel Casa Giuseppina",
+      "hotel_id": "",
+      "rating": 4.75,
+      "review_count": 396,
+      "stars": 3,
+      "price": 167,
+      "currency": "EUR",
+      "address": "Provinciale Succhivo Sant'Angelo, 7",
+      "lat": 40.70191955566406,
+      "lon": 13.884969711303711,
+      "distance_km": 6.350421783336146,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-casa-giuseppina-ischia?search=100-8446916;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 167,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-casa-giuseppina-ischia?search=100-8446916;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Le Querce",
+      "hotel_id": "",
+      "rating": 8.8,
+      "review_count": 437,
+      "stars": 4,
+      "price": 170,
+      "currency": "EUR",
+      "address": "Via Baldassarre Cossa, 55",
+      "lat": 40.745695999999995,
+      "lon": 13.930875,
+      "distance_km": 1.8726876199340166,
+      "amenities": [
+        "bar",
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "pool",
+        "paid_parking",
+        "air_conditioning",
+        "kitchen",
+        "restaurant",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-le-querce-ischia?search=100-22980;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 171,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 170,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 204,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-le-querce-ischia?search=100-22980;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 34,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Hermitage Resort & Thermal Spa",
+      "hotel_id": "",
+      "rating": 4.15,
+      "review_count": 2988,
+      "stars": 4,
+      "price": 172,
+      "currency": "EUR",
+      "address": "Via Leonardo Mazzella, 80",
+      "lat": 40.73419189453125,
+      "lon": 13.948949813842773,
+      "distance_km": 0.1537609708869104,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-hermitage-resort-thermal-spa-ischia?search=100-22983;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 172,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-hermitage-resort-thermal-spa-ischia?search=100-22983;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Parco Cartaromana",
+      "hotel_id": "",
+      "rating": 4.45,
+      "review_count": 1982,
+      "stars": 3,
+      "price": 172,
+      "currency": "EUR",
+      "address": "Via Nuova Cartaromana, 44",
+      "lat": 40.7288818359375,
+      "lon": 13.95674991607666,
+      "distance_km": 1.004032626528884,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-parco-cartaromana-ischia?search=100-23044;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 172,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-parco-cartaromana-ischia?search=100-23044;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Annabelle",
+      "hotel_id": "",
+      "rating": 4.65,
+      "review_count": 1008,
+      "stars": 3,
+      "price": 188,
+      "currency": "EUR",
+      "address": "Via Federico Variopinto, 6",
+      "lat": 40.737510681152344,
+      "lon": 13.9476900100708,
+      "distance_km": 0.3706448510567299,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-annabelle-ischia?search=100-156942;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 188,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-annabelle-ischia?search=100-156942;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "B&B La Piazzetta",
+      "hotel_id": "",
+      "rating": 4.75,
+      "review_count": 134,
+      "stars": 0,
+      "price": 189,
+      "currency": "EUR",
+      "address": "Corso Vittoria Colonna, 122 1° Piano",
+      "lat": 40.74024963378906,
+      "lon": 13.950510025024414,
+      "distance_km": 0.730138015980588,
+      "booking_url": "https://www.trivago.com/en-US/lm/bed-breakfast-b-b-la-piazzetta-ischia?search=100-22876408;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 189,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/bed-breakfast-b-b-la-piazzetta-ischia?search=100-22876408;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Bellevue Benessere & Relax",
+      "hotel_id": "",
+      "rating": 4.3,
+      "review_count": 1275,
+      "stars": 4,
+      "price": 192,
+      "currency": "EUR",
+      "address": "Via Morgioni, 95",
+      "lat": 40.73558044433594,
+      "lon": 13.940790176391602,
+      "distance_km": 0.5552302608228502,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-bellevue-benessere-relax-ischia?search=100-82779;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 192,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-bellevue-benessere-relax-ischia?search=100-82779;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Floridiana Terme",
+      "hotel_id": "",
+      "rating": 4.3,
+      "review_count": 920,
+      "stars": 4,
+      "price": 192,
+      "currency": "EUR",
+      "address": "Corso Vittoria Colonna, 153",
+      "lat": 40.741310119628906,
+      "lon": 13.948820114135742,
+      "distance_km": 0.8028581467903332,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-floridiana-terme-ischia?search=100-22978;dr-20260730-20260804;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 192,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-floridiana-terme-ischia?search=100-22978;dr-20260730-20260804;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Grand Hotel delle Terme RE FERDINANDO ~ ISCHIA",
+      "hotel_id": "0x133b6acf530cbbe7:0x2b4fb27a621d9db0",
+      "rating": 7.8,
+      "review_count": 1640,
+      "stars": 4,
+      "price": 197,
+      "currency": "EUR",
+      "address": "",
+      "description": "Cozy rooms & suites with free Wi-Fi, plus a restaurant, a luxe spa & a relaxed bar.",
+      "lat": 40.7415837,
+      "lon": 13.9435848,
+      "distance_km": 0.8730082824702651,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "ev_charger",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Ischia%2C%20Italy?q=Ischia%2C+Italy+hotels&dates=2026-07-30,2026-08-04",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 197,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}

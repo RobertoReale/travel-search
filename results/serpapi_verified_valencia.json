@@ -1,0 +1,291 @@
+{
+  "location": "Valencia",
+  "checkin": "2026-07-29",
+  "checkout": "2026-08-03",
+  "adults": "2",
+  "currency": "EUR",
+  "nights": 5,
+  "results": [
+    {
+      "name": "Value Beach Loft near Malvarrosa",
+      "stars": null,
+      "rating": null,
+      "list_per_night": "€42",
+      "list_total": "€211",
+      "official_site": "https://dtravel.com/f2e85b60-e5ee-486b-a2e3-7dbb1970a639/property/13924376",
+      "booking_search": "https://www.booking.com/searchresults.html?ss=Value+Beach+Loft+near+Malvarrosa&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "providers": [
+        {
+          "source": "Dtravel",
+          "per_night": "€42",
+          "total": "€211",
+          "total_num": 211,
+          "total_before_tax": null,
+          "tax_status": "na",
+          "tax_note": "tax breakdown n/a",
+          "link": null,
+          "link_dropped_404_risk": true,
+          "link_dead": false,
+          "free_cancellation": null
+        }
+      ],
+      "address": null,
+      "best_bookable": null,
+      "stable_link": "https://www.booking.com/searchresults.html?ss=Value+Beach+Loft+near+Malvarrosa&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "booking_link": "https://dtravel.com/f2e85b60-e5ee-486b-a2e3-7dbb1970a639/property/13924376"
+    },
+    {
+      "name": "Espacioso bajo en Benimaclet, Valencia",
+      "stars": null,
+      "rating": null,
+      "list_per_night": "€71",
+      "list_total": "€355",
+      "official_site": "https://www.apartamentos-innova.es/a/bnb/listings/espacioso-bajo-en-benimamet",
+      "booking_search": "https://www.booking.com/searchresults.html?ss=Espacioso+bajo+en+Benimaclet%2C+Valencia&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "providers": [
+        {
+          "source": "INNOVA APARTAMENTOS ",
+          "per_night": "€71",
+          "total": "€355",
+          "total_num": 355,
+          "total_before_tax": "€293",
+          "tax_status": "ok",
+          "tax_note": "taxes incl. (~EUR 62 of total)",
+          "link": null,
+          "link_dropped_404_risk": true,
+          "link_dead": false,
+          "free_cancellation": null
+        }
+      ],
+      "address": null,
+      "best_bookable": null,
+      "stable_link": "https://www.booking.com/searchresults.html?ss=Espacioso+bajo+en+Benimaclet%2C+Valencia&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "booking_link": "https://www.apartamentos-innova.es/a/bnb/listings/espacioso-bajo-en-benimamet"
+    },
+    {
+      "name": "Private Patio Jacuzzi Loft near City of Arts",
+      "stars": null,
+      "rating": null,
+      "list_per_night": "€92",
+      "list_total": "€460",
+      "official_site": "https://dtravel.com/f2e85b60-e5ee-486b-a2e3-7dbb1970a639/property/13846910",
+      "booking_search": "https://www.booking.com/searchresults.html?ss=Private+Patio+Jacuzzi+Loft+near+City+of+Arts&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "providers": [
+        {
+          "source": "Dtravel",
+          "per_night": "€92",
+          "total": "€460",
+          "total_num": 460,
+          "total_before_tax": null,
+          "tax_status": "na",
+          "tax_note": "tax breakdown n/a",
+          "link": null,
+          "link_dropped_404_risk": true,
+          "link_dead": false,
+          "free_cancellation": null
+        }
+      ],
+      "address": null,
+      "best_bookable": null,
+      "stable_link": "https://www.booking.com/searchresults.html?ss=Private+Patio+Jacuzzi+Loft+near+City+of+Arts&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "booking_link": "https://dtravel.com/f2e85b60-e5ee-486b-a2e3-7dbb1970a639/property/13846910"
+    },
+    {
+      "name": "Olympia Hotel, Events & Spa",
+      "stars": 4,
+      "rating": 4,
+      "list_per_night": "€93",
+      "list_total": "€467",
+      "official_site": "https://www.olympiahotelvalencia.com/",
+      "booking_search": "https://www.booking.com/searchresults.html?ss=Olympia+Hotel%2C+Events+%26+Spa&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "providers": [
+        {
+          "source": "Olympia Hotel Events & Spa",
+          "per_night": "€105",
+          "total": "€524",
+          "total_num": 524,
+          "total_before_tax": "€477",
+          "tax_status": "ok",
+          "tax_note": "taxes incl. (~EUR 47 of total)",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQPxoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYASABEgK_ufD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_0tOy4yMJ46dO70qScDokDmu3KTJA&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Booking.com",
+          "per_night": "€110",
+          "total": "€552",
+          "total_num": 552,
+          "total_before_tax": "€502",
+          "tax_status": "ok",
+          "tax_note": "taxes incl. (~EUR 50 of total)",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQFBoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYAiABEgIfTvD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_3r5PYf8flMMKd8sycxPAT4IzvEAA&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Expedia.com",
+          "per_night": "€110",
+          "total": "€551",
+          "total_num": 551,
+          "total_before_tax": "€512",
+          "tax_status": "ok",
+          "tax_note": "taxes incl. (~EUR 39 of total)",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQARoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYAyABEgJRlPD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_2s8H0o8cVzuNGziKWM92ThrlF91Q&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Agoda",
+          "per_night": "€109",
+          "total": "€547",
+          "total_num": 547,
+          "total_before_tax": "€497",
+          "tax_status": "ok",
+          "tax_note": "taxes incl. (~EUR 50 of total)",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQHxoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYBCABEgLJwvD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_1jDMjZRkX5J_FNoWriFhRThbZPPg&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Priceline",
+          "per_night": "€110",
+          "total": "€552",
+          "total_num": 552,
+          "total_before_tax": "€502",
+          "tax_status": "ok",
+          "tax_note": "taxes incl. (~EUR 50 of total)",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQORoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYBSABEgIaCvD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_3geTpeBxUkWZ5sfrHFqE5aqjlPaA&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Hotels.com",
+          "per_night": "€110",
+          "total": "€551",
+          "total_num": 551,
+          "total_before_tax": "€512",
+          "tax_status": "ok",
+          "tax_note": "taxes incl. (~EUR 39 of total)",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQJhoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYBiABEgLRyPD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_1VMul47VBQ8ysRBuk5pbOYw7G14Q&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        }
+      ],
+      "address": "Carrer Mestre Serrano, 5, 46120 Alboraia, Valencia, Spain",
+      "best_bookable": {
+        "source": "Olympia Hotel Events & Spa",
+        "per_night": "€105",
+        "total": "€524",
+        "total_num": 524,
+        "total_before_tax": "€477",
+        "tax_status": "ok",
+        "tax_note": "taxes incl. (~EUR 47 of total)",
+        "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQPxoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYASABEgK_ufD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_0tOy4yMJ46dO70qScDokDmu3KTJA&adurl",
+        "link_dropped_404_risk": false,
+        "link_dead": false,
+        "free_cancellation": null
+      },
+      "stable_link": "https://www.booking.com/searchresults.html?ss=Olympia+Hotel%2C+Events+%26+Spa&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "booking_link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiJhMHsufiUAxXbJ0QIHfErIloYACICCAEQPxoCZHo&co=1&gclid=EAIaIQobChMIiYTB7Ln4lAMV2ydECB3xKyJaEAoYASABEgK_ufD_BwE&cid=CAAS0wHkaPkHJfu1e2Lw8EMRZfX9fPRKQDeu12RJpoLImZ_WzBMfS-qa7dtUcNf3oe-GYHa30E2rRTnut84uEHrg4PBNuaKGh9xwNs8M2SnaqdQtyQF341_VZYL5oJoTvndC9YS1jjaKiwOpJ5R6FRFw5_1uxxNZAXOLQxsRiFHz7vPbnqNn87MtiLXc35_rOwQOZMbzsMtJ14K8snBgMUot9-2Nm_YxRFVMj3w5r-K-3QsUXreQleKP1FeaevEF4cAGLj9jHmkDRtUegA4pln6YIN26igub&sig=AOD64_0tOy4yMJ46dO70qScDokDmu3KTJA&adurl"
+    },
+    {
+      "name": "ibis budget Valencia Centro Puerto",
+      "stars": 1,
+      "rating": 4.4,
+      "list_per_night": "€107",
+      "list_total": "€535",
+      "official_site": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B4B2&merchantid=seo-maps-Spain-B4B2&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+      "booking_search": "https://www.booking.com/searchresults.html?ss=ibis+budget+Valencia+Centro+Puerto&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "providers": [
+        {
+          "source": "Booking.com",
+          "per_night": "€107",
+          "total": "€536",
+          "total_num": 536,
+          "total_before_tax": null,
+          "tax_status": "na",
+          "tax_note": "tax breakdown n/a",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwijuf_tufiUAxUxQUgAHXCzDNkYACICCAEQEBoCY2U&co=1&gclid=EAIaIQobChMIo7n_7bn4lAMVMUFIAB1wswzZEAoYASABEgKVsfD_BwE&cid=CAAS0wHkaAVlVXDnmi0AokQVg4ea-nraRdQtpany8jJ8BVrMKxDRdVyL-MsbrEtMJCnaczQmM2zKfBeoBqrbGbGwc6mLctWXiM4MToZk2g5dNY1mHg1-4WWaGSPE55gYgZ1uyvS9InsuLCX_H6qdNH3ro5-qWQdD1cfUHuqTLt7pxEphAH1wj-GDTvSN9xWQHIAicz9fTh405u-AYtbnR_XNjwmIX7hmKmML-PFKjNLFmkpKcyojI0tiW7OuTUQL2ye2noAanqF5Rl6_oSh9tXTKaixw0gVQ&sig=AOD64_3W1VS5ArerNxNjsXg1xmTzWtliNQ&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "ibis budget Valencia Centro Puerto",
+          "per_night": "€107",
+          "total": "€536",
+          "total_num": 536,
+          "total_before_tax": null,
+          "tax_status": "na",
+          "tax_note": "tax breakdown n/a",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwijuf_tufiUAxUxQUgAHXCzDNkYACICCAEQCBoCY2U&co=1&gclid=EAIaIQobChMIo7n_7bn4lAMVMUFIAB1wswzZEAoYAiABEgJOmfD_BwE&cid=CAAS0wHkaAVlVXDnmi0AokQVg4ea-nraRdQtpany8jJ8BVrMKxDRdVyL-MsbrEtMJCnaczQmM2zKfBeoBqrbGbGwc6mLctWXiM4MToZk2g5dNY1mHg1-4WWaGSPE55gYgZ1uyvS9InsuLCX_H6qdNH3ro5-qWQdD1cfUHuqTLt7pxEphAH1wj-GDTvSN9xWQHIAicz9fTh405u-AYtbnR_XNjwmIX7hmKmML-PFKjNLFmkpKcyojI0tiW7OuTUQL2ye2noAanqF5Rl6_oSh9tXTKaixw0gVQ&sig=AOD64_1ic2Fo5Flp2hahB0Z4p85xFHaEZg&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Agoda",
+          "per_night": "€107",
+          "total": "€536",
+          "total_num": 536,
+          "total_before_tax": null,
+          "tax_status": "na",
+          "tax_note": "tax breakdown n/a",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwijuf_tufiUAxUxQUgAHXCzDNkYACICCAEQAxoCY2U&co=1&gclid=EAIaIQobChMIo7n_7bn4lAMVMUFIAB1wswzZEAoYAyABEgIHfPD_BwE&cid=CAAS0wHkaAVlVXDnmi0AokQVg4ea-nraRdQtpany8jJ8BVrMKxDRdVyL-MsbrEtMJCnaczQmM2zKfBeoBqrbGbGwc6mLctWXiM4MToZk2g5dNY1mHg1-4WWaGSPE55gYgZ1uyvS9InsuLCX_H6qdNH3ro5-qWQdD1cfUHuqTLt7pxEphAH1wj-GDTvSN9xWQHIAicz9fTh405u-AYtbnR_XNjwmIX7hmKmML-PFKjNLFmkpKcyojI0tiW7OuTUQL2ye2noAanqF5Rl6_oSh9tXTKaixw0gVQ&sig=AOD64_0WMGNi7apym3BSTgCzv9A9HW1KPg&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Priceline",
+          "per_night": "€107",
+          "total": "€535",
+          "total_num": 535,
+          "total_before_tax": null,
+          "tax_status": "na",
+          "tax_note": "tax breakdown n/a",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwijuf_tufiUAxUxQUgAHXCzDNkYACICCAEQFhoCY2U&co=1&gclid=EAIaIQobChMIo7n_7bn4lAMVMUFIAB1wswzZEAoYBCABEgLOXvD_BwE&cid=CAAS0wHkaAVlVXDnmi0AokQVg4ea-nraRdQtpany8jJ8BVrMKxDRdVyL-MsbrEtMJCnaczQmM2zKfBeoBqrbGbGwc6mLctWXiM4MToZk2g5dNY1mHg1-4WWaGSPE55gYgZ1uyvS9InsuLCX_H6qdNH3ro5-qWQdD1cfUHuqTLt7pxEphAH1wj-GDTvSN9xWQHIAicz9fTh405u-AYtbnR_XNjwmIX7hmKmML-PFKjNLFmkpKcyojI0tiW7OuTUQL2ye2noAanqF5Rl6_oSh9tXTKaixw0gVQ&sig=AOD64_0qAFXLXD-hoUSDjdzBcNoKcfcQQw&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        },
+        {
+          "source": "Reserving",
+          "per_night": "€107",
+          "total": "€536",
+          "total_num": 536,
+          "total_before_tax": null,
+          "tax_status": "na",
+          "tax_note": "tax breakdown n/a",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwijuf_tufiUAxUxQUgAHXCzDNkYACICCAEQARoCY2U&co=1&gclid=EAIaIQobChMIo7n_7bn4lAMVMUFIAB1wswzZEAoYBSABEgLHHvD_BwE&cid=CAAS0wHkaAVlVXDnmi0AokQVg4ea-nraRdQtpany8jJ8BVrMKxDRdVyL-MsbrEtMJCnaczQmM2zKfBeoBqrbGbGwc6mLctWXiM4MToZk2g5dNY1mHg1-4WWaGSPE55gYgZ1uyvS9InsuLCX_H6qdNH3ro5-qWQdD1cfUHuqTLt7pxEphAH1wj-GDTvSN9xWQHIAicz9fTh405u-AYtbnR_XNjwmIX7hmKmML-PFKjNLFmkpKcyojI0tiW7OuTUQL2ye2noAanqF5Rl6_oSh9tXTKaixw0gVQ&sig=AOD64_1XfForFIW3yJjDFrYXPpcajoqxww&adurl",
+          "link_dropped_404_risk": false,
+          "link_dead": false,
+          "free_cancellation": null
+        }
+      ],
+      "address": "29 Juan Verdeguer St, 46024 València, Valencia, Spain",
+      "best_bookable": {
+        "source": "Priceline",
+        "per_night": "€107",
+        "total": "€535",
+        "total_num": 535,
+        "total_before_tax": null,
+        "tax_status": "na",
+        "tax_note": "tax breakdown n/a",
+        "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwijuf_tufiUAxUxQUgAHXCzDNkYACICCAEQFhoCY2U&co=1&gclid=EAIaIQobChMIo7n_7bn4lAMVMUFIAB1wswzZEAoYBCABEgLOXvD_BwE&cid=CAAS0wHkaAVlVXDnmi0AokQVg4ea-nraRdQtpany8jJ8BVrMKxDRdVyL-MsbrEtMJCnaczQmM2zKfBeoBqrbGbGwc6mLctWXiM4MToZk2g5dNY1mHg1-4WWaGSPE55gYgZ1uyvS9InsuLCX_H6qdNH3ro5-qWQdD1cfUHuqTLt7pxEphAH1wj-GDTvSN9xWQHIAicz9fTh405u-AYtbnR_XNjwmIX7hmKmML-PFKjNLFmkpKcyojI0tiW7OuTUQL2ye2noAanqF5Rl6_oSh9tXTKaixw0gVQ&sig=AOD64_0qAFXLXD-hoUSDjdzBcNoKcfcQQw&adurl",
+        "link_dropped_404_risk": false,
+        "link_dead": false,
+        "free_cancellation": null
+      },
+      "stable_link": "https://www.booking.com/searchresults.html?ss=ibis+budget+Valencia+Centro+Puerto&checkin=2026-07-29&checkout=2026-08-03&group_adults=2&no_rooms=1&group_children=0",
+      "booking_link": "https://www.google.com/aclk?sa=l&ai=DChsSEwijuf_tufiUAxUxQUgAHXCzDNkYACICCAEQFhoCY2U&co=1&gclid=EAIaIQobChMIo7n_7bn4lAMVMUFIAB1wswzZEAoYBCABEgLOXvD_BwE&cid=CAAS0wHkaAVlVXDnmi0AokQVg4ea-nraRdQtpany8jJ8BVrMKxDRdVyL-MsbrEtMJCnaczQmM2zKfBeoBqrbGbGwc6mLctWXiM4MToZk2g5dNY1mHg1-4WWaGSPE55gYgZ1uyvS9InsuLCX_H6qdNH3ro5-qWQdD1cfUHuqTLt7pxEphAH1wj-GDTvSN9xWQHIAicz9fTh405u-AYtbnR_XNjwmIX7hmKmML-PFKjNLFmkpKcyojI0tiW7OuTUQL2ye2noAanqF5Rl6_oSh9tXTKaixw0gVQ&sig=AOD64_0qAFXLXD-hoUSDjdzBcNoKcfcQQw&adurl"
+    }
+  ]
+}

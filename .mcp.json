@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fli": {
+      "command": "uv",
+      "args": ["run", "--directory", "C:\\Users\\Admin\\Downloads\\fli", "fli-mcp"]
+    },
+    "trvl": {
+      "command": "C:\\Users\\Admin\\go\\bin\\trvl.exe",
+      "args": ["mcp"]
+    }
+  }
+}

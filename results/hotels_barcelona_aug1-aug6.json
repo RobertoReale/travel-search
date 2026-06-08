@@ -1,0 +1,1365 @@
+{
+  "success": true,
+  "count": 52,
+  "total_available": 222,
+  "hotels": [
+    {
+      "name": "Sun & Moon hostel",
+      "hotel_id": "0x12a4a355c74da85d:0x5b1c45507192334f",
+      "rating": 8.4,
+      "review_count": 2119,
+      "stars": 1,
+      "price": 71,
+      "currency": "EUR",
+      "address": "",
+      "description": "Informal Gothic Quarter hostel offering a hip TV lounge, plus colorful dorms & private rooms.",
+      "lat": 41.381015000000005,
+      "lon": 2.1749226999999998,
+      "distance_km": 0.8894847192591125,
+      "amenities": [
+        "kitchen",
+        "room_service",
+        "free_wifi",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "breakfast",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 71,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Party Hostel Kabul",
+      "hotel_id": "0x12a4a257ee73e08d:0x24053a99de18bd87",
+      "rating": 9,
+      "review_count": 2538,
+      "stars": 1,
+      "price": 86,
+      "currency": "EUR",
+      "address": "",
+      "description": "Simple dorms in a lively hostel offering a game room, a bar & a TV lounge, plus breakfast.",
+      "lat": 41.3796725,
+      "lon": 2.1753302,
+      "distance_km": 0.8895617130294264,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 86,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Unite Hostel Barcelona",
+      "hotel_id": "",
+      "rating": 8.2,
+      "review_count": 2198,
+      "stars": 1,
+      "price": 89,
+      "currency": "EUR",
+      "address": "Av. d'Icària, 145, BJ",
+      "lat": 41.39102,
+      "lon": 2.196307,
+      "distance_km": 1.339979924224003,
+      "amenities": [
+        "accessible",
+        "free_parking",
+        "airport_shuttle",
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-unite-hostel-barcelona?search=100-12114520;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 89,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 368,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-unite-hostel-barcelona?search=100-12114520;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 279,
+      "cheapest_source": "google_hotels"
+    },
+    {
+      "name": "Safestay Barcelona Gothic",
+      "hotel_id": "0x12a4a33fe115943d:0x82d2e5309fd0eac9",
+      "rating": 7.2,
+      "review_count": 682,
+      "stars": 2,
+      "price": 93,
+      "currency": "EUR",
+      "address": "",
+      "description": "Colorful dorms in a vibrant hostel offering a terrace, a lounge & complimentary Wi-Fi.",
+      "lat": 41.3842022,
+      "lon": 2.1796973,
+      "distance_km": 0.5354364986647838,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "breakfast",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 93,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "St Christopher's Inn Barcelona",
+      "hotel_id": "",
+      "rating": 8.4,
+      "review_count": 4968,
+      "stars": 0,
+      "price": 93,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.386099,
+      "lon": 2.1676789999999997,
+      "distance_km": 1.5498919063698335,
+      "amenities": [
+        "free_parking",
+        "pool",
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 93,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Palau Rooms - Triple Room with Private Bathroom",
+      "hotel_id": "",
+      "rating": 0,
+      "review_count": 0,
+      "stars": 0,
+      "price": 101,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.38644027709961,
+      "lon": 2.1763899326324463,
+      "distance_km": 0.8980505541240021,
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 101,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Sea Hostel",
+      "hotel_id": "0x12a4a3aead15192f:0x4694e56b31e535c3",
+      "rating": 6.8,
+      "review_count": 920,
+      "stars": 2,
+      "price": 114,
+      "currency": "EUR",
+      "address": "",
+      "description": "Casual dorms & private rooms in unassuming beachfront hostel offering a bar & a shared kitchen.",
+      "lat": 41.3755739,
+      "lon": 2.1897613,
+      "distance_km": 0.810450010648798,
+      "amenities": [
+        "accessible",
+        "kitchen",
+        "free_wifi",
+        "free_parking",
+        "breakfast",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 114,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hostal Nuevo Colón",
+      "hotel_id": "0x12a4a301c0000019:0xb80369b4e545ed",
+      "rating": 7.6,
+      "review_count": 657,
+      "stars": 1,
+      "price": 118,
+      "currency": "EUR",
+      "address": "",
+      "description": "Straightforward budget hotel featuring pared-down rooms, plus a cozy guest lounge.",
+      "lat": 41.385001800000005,
+      "lon": 2.1850407,
+      "distance_km": 0.32287196249095884,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "free_parking",
+        "pet_friendly",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 118,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Àmfores Boutique Guest House",
+      "hotel_id": "0x12a4a332bbd3f451:0x27654975873d1dc1",
+      "rating": 7.4,
+      "review_count": 275,
+      "stars": 3,
+      "price": 141,
+      "currency": "EUR",
+      "address": "",
+      "description": "Relaxed guesthouse featuring simple rooms, some with balconies, plus a gym & a rooftop terrace.",
+      "lat": 41.3879375,
+      "lon": 2.1767068,
+      "distance_km": 0.9771665128782063,
+      "amenities": [
+        "kitchen",
+        "restaurant",
+        "free_wifi",
+        "fitness_center"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 141,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hostal Barcelona",
+      "hotel_id": "",
+      "rating": 6.8,
+      "review_count": 959,
+      "stars": 2,
+      "price": 143,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.372885,
+      "lon": 2.16628,
+      "distance_km": 1.9028446652813473,
+      "amenities": [
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 143,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hostal Sol i K",
+      "hotel_id": "0x12a4a2f884fa4a83:0xb620b340c7e8d257",
+      "rating": 8.6,
+      "review_count": 315,
+      "stars": 2,
+      "price": 146,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.3810454,
+      "lon": 2.1773911,
+      "distance_km": 0.685495712340927,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "ev_charger",
+        "pet_friendly",
+        "air_conditioning",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 146,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Monegal",
+      "hotel_id": "",
+      "rating": 7.2,
+      "review_count": 814,
+      "stars": 2,
+      "price": 152,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.385342,
+      "lon": 2.1697409999999997,
+      "distance_km": 1.3613562967485022,
+      "amenities": [
+        "accessible",
+        "air_conditioning",
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 152,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Sagrada Familia",
+      "hotel_id": "",
+      "rating": 4.05,
+      "review_count": 4961,
+      "stars": 3,
+      "price": 153,
+      "currency": "EUR",
+      "address": "Carrer de Còrsega, 541",
+      "lat": 41.40591812133789,
+      "lon": 2.1715199947357178,
+      "distance_km": 2.8914889395560355,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-sagrada-familia-barcelona?search=100-40734;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 153,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-sagrada-familia-barcelona?search=100-40734;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "SM Hotel Teatre Auditori",
+      "hotel_id": "",
+      "rating": 4.35,
+      "review_count": 6322,
+      "stars": 3,
+      "price": 165,
+      "currency": "EUR",
+      "address": "C. de Ribes, 71",
+      "lat": 41.3998908996582,
+      "lon": 2.1839499473571777,
+      "distance_km": 1.980485429878287,
+      "booking_url": "https://www.trivago.com/en-US/lm/sm-hotel-teatre-auditori-barcelona?search=100-1061810;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 165,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/sm-hotel-teatre-auditori-barcelona?search=100-1061810;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Eurostars Monumental",
+      "hotel_id": "",
+      "rating": 4.1,
+      "review_count": 4193,
+      "stars": 4,
+      "price": 166,
+      "currency": "EUR",
+      "address": "Carrer del Consell de Cent, 498, 500",
+      "lat": 41.400611877441406,
+      "lon": 2.17864990234375,
+      "distance_km": 2.1340424565203544,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-eurostars-monumental-barcelona?search=100-80899;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 166,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-eurostars-monumental-barcelona?search=100-80899;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Best Front Maritim",
+      "hotel_id": "",
+      "rating": 3.8,
+      "review_count": 7033,
+      "stars": 4,
+      "price": 167,
+      "currency": "EUR",
+      "address": "Passeig de Garcia Fària, 69",
+      "lat": 41.40375900268555,
+      "lon": 2.213749885559082,
+      "distance_km": 3.369179080765229,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-best-front-maritim-barcelona?search=100-40650;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 167,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-best-front-maritim-barcelona?search=100-40650;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Barcelona Princess",
+      "hotel_id": "",
+      "rating": 4.25,
+      "review_count": 22206,
+      "stars": 4,
+      "price": 170,
+      "currency": "EUR",
+      "address": "Av. Diagonal, 1",
+      "lat": 41.41093063354492,
+      "lon": 2.218669891357422,
+      "distance_km": 4.23420561662916,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-barcelona-princess?search=100-6768;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 170,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-barcelona-princess?search=100-6768;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "ibis Styles Barcelona City Bogatell",
+      "hotel_id": "",
+      "rating": 8.8,
+      "review_count": 4044,
+      "stars": 2,
+      "price": 173,
+      "currency": "EUR",
+      "address": "Carrer de Llull, 71, Hb004742",
+      "lat": 41.394757999999996,
+      "lon": 2.193383,
+      "distance_km": 1.5524659020548077,
+      "amenities": [
+        "ev_charger",
+        "accessible",
+        "pool",
+        "kitchen",
+        "restaurant",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-ibis-styles-barcelona-city-bogatell?search=100-5816692;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 320,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "provider": "trivago",
+          "price": 173,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-ibis-styles-barcelona-city-bogatell?search=100-5816692;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "savings": 147,
+      "cheapest_source": "trivago"
+    },
+    {
+      "name": "Hotel Paxton Barcelona",
+      "hotel_id": "",
+      "rating": 4.45,
+      "review_count": 6894,
+      "stars": 4,
+      "price": 180,
+      "currency": "EUR",
+      "address": "Carrer de Llull, 160",
+      "lat": 41.399410247802734,
+      "lon": 2.2002298831939697,
+      "distance_km": 2.2827872797650275,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-paxton-barcelona?search=100-20680650;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 180,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-paxton-barcelona?search=100-20680650;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Leonardo Royal Hotel Barcelona Forum",
+      "hotel_id": "",
+      "rating": 4.1,
+      "review_count": 6996,
+      "stars": 4,
+      "price": 185,
+      "currency": "EUR",
+      "address": "Pg. del Taulat, 278",
+      "lat": 41.4099006652832,
+      "lon": 2.218600034713745,
+      "distance_km": 4.1443498047509655,
+      "booking_url": "https://www.trivago.com/en-US/lm/leonardo-royal-hotel-barcelona-forum?search=100-40499;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 185,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/leonardo-royal-hotel-barcelona-forum?search=100-40499;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Sallés Hotel Pere IV",
+      "hotel_id": "",
+      "rating": 4.05,
+      "review_count": 11860,
+      "stars": 4,
+      "price": 187,
+      "currency": "EUR",
+      "address": "Carrer de Pallars, 128",
+      "lat": 41.39691162109375,
+      "lon": 2.192349910736084,
+      "distance_km": 1.7419842844786824,
+      "booking_url": "https://www.trivago.com/en-US/lm/sallés-hotel-pere-iv-barcelona?search=100-80861;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 187,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/sallés-hotel-pere-iv-barcelona?search=100-80861;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Del Mar",
+      "hotel_id": "",
+      "rating": 4.15,
+      "review_count": 6753,
+      "stars": 3,
+      "price": 187,
+      "currency": "EUR",
+      "address": "Pla de Palau, 19",
+      "lat": 41.38199996948242,
+      "lon": 2.1839699745178223,
+      "distance_km": 0.1268378147705956,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-del-mar-barcelona?search=100-99009;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 187,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-del-mar-barcelona?search=100-99009;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "H10 Marina Barcelona",
+      "hotel_id": "",
+      "rating": 4.2,
+      "review_count": 11204,
+      "stars": 4,
+      "price": 192,
+      "currency": "EUR",
+      "address": "Olympic Village, Av. del Bogatell, 64, 68",
+      "lat": 41.392860412597656,
+      "lon": 2.1924400329589844,
+      "distance_km": 1.32815697221924,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-h10-marina-barcelona?search=100-6739;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 192,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-h10-marina-barcelona?search=100-6739;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Novotel Barcelona City",
+      "hotel_id": "",
+      "rating": 4.25,
+      "review_count": 16867,
+      "stars": 4,
+      "price": 193,
+      "currency": "EUR",
+      "address": "Avenida Diagonal, Carrer de la Ciutat de Granada, 201, Entrada Por",
+      "lat": 41.403839111328125,
+      "lon": 2.191190004348755,
+      "distance_km": 2.461858863709558,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-novotel-barcelona-city?search=100-1282318;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 193,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-novotel-barcelona-city?search=100-1282318;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Holiday Inn Express Barcelona - City 22@ By Ihg",
+      "hotel_id": "",
+      "rating": 4.1,
+      "review_count": 16860,
+      "stars": 3,
+      "price": 193,
+      "currency": "EUR",
+      "address": "Carrer de Pallars, 203",
+      "lat": 41.40156173706055,
+      "lon": 2.1979100704193115,
+      "distance_km": 2.3978450394405466,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-holiday-inn-express-barcelona-city-22-by-ihg?search=100-795786;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 193,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-holiday-inn-express-barcelona-city-22-by-ihg?search=100-795786;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Ilunion Barcelona",
+      "hotel_id": "",
+      "rating": 4.2,
+      "review_count": 13488,
+      "stars": 4,
+      "price": 197,
+      "currency": "EUR",
+      "address": "Carrer de Ramon Turró, 196, 198",
+      "lat": 41.39908981323242,
+      "lon": 2.2021100521087646,
+      "distance_km": 2.342196793257616,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-ilunion-barcelona?search=100-795816;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 197,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-ilunion-barcelona?search=100-795816;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hostal Quartier Gothic",
+      "hotel_id": "0x12a4a2561e93a071:0xd7788fca19b61416",
+      "rating": 8.4,
+      "review_count": 574,
+      "stars": 1,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "description": "Modest adults-only lodging featuring relaxed rooms, some with shared bathrooms, plus a TV lounge.",
+      "lat": 41.3804531,
+      "lon": 2.1783245,
+      "distance_km": 0.6251925282314543,
+      "amenities": [
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "adults_only": true,
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "El Balcon del Born",
+      "hotel_id": "0x12a4a2fe25363c67:0xc1ef091af2081407",
+      "rating": 9,
+      "review_count": 14,
+      "stars": 0,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "description": "Refined rooms with opulent details, plus continental breakfast & a cozy guest area.",
+      "lat": 41.3837234,
+      "lon": 2.1834897,
+      "distance_km": 0.24400109337110762,
+      "amenities": [
+        "accessible",
+        "kitchen",
+        "ev_charger",
+        "pet_friendly",
+        "breakfast"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Maldà Singular Hotel",
+      "hotel_id": "0x12a4a2f77807f1ed:0x86b828de1de70537",
+      "rating": 9,
+      "review_count": 213,
+      "stars": 3,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "description": "Polished hotel in a 17th-century building featuring a lobby lounge & complimentary Wi-Fi.",
+      "lat": 41.383169099999996,
+      "lon": 2.1738965,
+      "distance_km": 0.9736568933218407,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "air_conditioning",
+        "laundry",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "V Barcelona Hostal",
+      "hotel_id": "0x12a4a32d750efe47:0x9d1a6905c169b7f8",
+      "rating": 8.2,
+      "review_count": 26,
+      "stars": 0,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.3802373,
+      "lon": 2.1799029,
+      "distance_km": 0.5102721844508656,
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Barcelona Bed and Breakfast Apartments",
+      "hotel_id": "0x12a4a2f78930d1e5:0xe62204d083e0ebd8",
+      "rating": 7.4,
+      "review_count": 7,
+      "stars": 0,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.3824979,
+      "lon": 2.1743058,
+      "distance_km": 0.9334219054516756,
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Casa Marcelo Barcelona B&B",
+      "hotel_id": "0x12a4a2fe3bab8971:0x7822875cbf9b5cb1",
+      "rating": 9.2,
+      "review_count": 40,
+      "stars": 0,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "description": "Polished B&B offering elegant rooms, some with shared bathrooms, in addition to a communal kitchen.",
+      "lat": 41.3837234,
+      "lon": 2.1834898,
+      "distance_km": 0.24399540942416426,
+      "amenities": [
+        "accessible",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Barcelona Beach Apartments",
+      "hotel_id": "0x12a4a3a96b5f434f:0x6f2c6a62ac28ab50",
+      "rating": 9,
+      "review_count": 50,
+      "stars": 3,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "description": "Airy units with kitchenettes in a casual hotel featuring a rooftop terrace, plus sea & beach views.",
+      "lat": 41.3770733,
+      "lon": 2.1903528,
+      "distance_km": 0.6925962016502543,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "air_conditioning",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Inspired Apartments",
+      "hotel_id": "0x12a4a2ff527497a5:0xe70cc24ebaa47a92",
+      "rating": 9.6,
+      "review_count": 12,
+      "stars": 3,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.3812353,
+      "lon": 2.1796387,
+      "distance_km": 0.4972974318558371,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "pet_friendly",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Bedcelona Beach Club & Rooms",
+      "hotel_id": "0x12a4a3a96fd2ff09:0x664b33f5cabc6e9f",
+      "rating": 10,
+      "review_count": 1,
+      "stars": 2,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.3772699,
+      "lon": 2.1899892,
+      "distance_km": 0.6571983705458916,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Pensió Villanueva",
+      "hotel_id": "0x12a4a257f0a10519:0x9c437e9db788e697",
+      "rating": 6.8,
+      "review_count": 266,
+      "stars": 2,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "description": "Basic rooms in a humble guesthouse on La Rambla, offering free Wi-Fi & city views.",
+      "lat": 41.3801208,
+      "lon": 2.1747535,
+      "distance_km": 0.9222383284886589,
+      "amenities": [
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hostel Turisol",
+      "hotel_id": "0x12a4a257b26a77e3:0xfdd5a70199ccfce8",
+      "rating": 5,
+      "review_count": 41,
+      "stars": 1,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "description": "Simply furnished rooms, some with Juliet balconies, in a pared-down budget hotel.",
+      "lat": 41.3789289,
+      "lon": 2.1766780999999997,
+      "distance_km": 0.8156303167148558,
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Factory Gardens Barcelona",
+      "hotel_id": "0x12a4a3573bcce7f1:0x92e2acef8fc92428",
+      "rating": 9,
+      "review_count": 89,
+      "stars": 4,
+      "price": 200,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.3819349,
+      "lon": 2.1830373,
+      "distance_km": 0.20498558170188633,
+      "amenities": [
+        "kitchen",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 200,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Acta Voraport",
+      "hotel_id": "",
+      "rating": 4.5,
+      "review_count": 16367,
+      "stars": 3,
+      "price": 202,
+      "currency": "EUR",
+      "address": "Carrer de Ramon Turró, 169, B",
+      "lat": 41.39910888671875,
+      "lon": 2.2006900310516357,
+      "distance_km": 2.2758069925948314,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-acta-voraport-barcelona?search=100-16240032;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 202,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-acta-voraport-barcelona?search=100-16240032;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "APT 21 Montjuic",
+      "hotel_id": "",
+      "rating": 8.907732,
+      "review_count": 194,
+      "stars": 0,
+      "price": 204,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.3743782043457,
+      "lon": 2.1742680072784424,
+      "distance_km": 1.271215133925002,
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 204,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "APT 17 Drassanes",
+      "hotel_id": "",
+      "rating": 8.6,
+      "review_count": 8,
+      "stars": 0,
+      "price": 204,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.37434768676758,
+      "lon": 2.1743249893188477,
+      "distance_km": 1.2700258168209912,
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 204,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Onix Liceo",
+      "hotel_id": "",
+      "rating": 8.4,
+      "review_count": 797,
+      "stars": 3,
+      "price": 204,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.378071,
+      "lon": 2.172983,
+      "distance_km": 1.135768836012416,
+      "amenities": [
+        "accessible",
+        "free_parking",
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 204,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Rec Barcelona - Adults Only",
+      "hotel_id": "",
+      "rating": 4.6,
+      "review_count": 8181,
+      "stars": 3,
+      "price": 207,
+      "currency": "EUR",
+      "address": "Carrer del Rec Comtal, 19",
+      "lat": 41.390159606933594,
+      "lon": 2.1798601150512695,
+      "distance_km": 1.0098200184582236,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-rec-barcelona-adults-only?search=100-8911532;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "adults_only": true,
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 207,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-rec-barcelona-adults-only?search=100-8911532;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Negresco Princess",
+      "hotel_id": "",
+      "rating": 4.25,
+      "review_count": 10087,
+      "stars": 4,
+      "price": 209,
+      "currency": "EUR",
+      "address": "Carrer de Roger de Llúria, 16, 18",
+      "lat": 41.39051055908203,
+      "lon": 2.172640085220337,
+      "distance_km": 1.4208787159946565,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-negresco-princess-barcelona?search=100-4474778;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 209,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-negresco-princess-barcelona?search=100-4474778;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Occidental Atenea Mar - Adults Only",
+      "hotel_id": "",
+      "rating": 4.2,
+      "review_count": 9950,
+      "stars": 4,
+      "price": 210,
+      "currency": "EUR",
+      "address": "Passeig de Garcia Fària, 37-47",
+      "lat": 41.40227127075195,
+      "lon": 2.211669921875,
+      "distance_km": 3.1296151919497346,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-occidental-atenea-mar-adults-only-barcelona?search=100-40410;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "adults_only": true,
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 210,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-occidental-atenea-mar-adults-only-barcelona?search=100-40410;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel & Spa Villa Olimpica Suites",
+      "hotel_id": "",
+      "rating": 4.05,
+      "review_count": 8057,
+      "stars": 4,
+      "price": 213,
+      "currency": "EUR",
+      "address": "Carrer de Pallars, 121, 125",
+      "lat": 41.397369384765625,
+      "lon": 2.192389965057373,
+      "distance_km": 1.7912034179826115,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-spa-villa-olimpica-suites-barcelona?search=100-1185696;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 213,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-spa-villa-olimpica-suites-barcelona?search=100-1185696;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Cantón Barcelona",
+      "hotel_id": "",
+      "rating": 8.4,
+      "review_count": 899,
+      "stars": 1,
+      "price": 216,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.378482999999996,
+      "lon": 2.1779919999999997,
+      "distance_km": 0.7442019749446099,
+      "amenities": [
+        "airport_shuttle",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 216,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel SB Glow",
+      "hotel_id": "",
+      "rating": 4.1,
+      "review_count": 9912,
+      "stars": 4,
+      "price": 217,
+      "currency": "EUR",
+      "address": "Carrer de Badajoz, 148, 154",
+      "lat": 41.40214157104492,
+      "lon": 2.1910998821258545,
+      "distance_km": 2.275398638119414,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-sb-glow-barcelona?search=100-7383824;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 217,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-sb-glow-barcelona?search=100-7383824;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Sercotel Caspe",
+      "hotel_id": "",
+      "rating": 8.4,
+      "review_count": 3140,
+      "stars": 4,
+      "price": 218,
+      "currency": "EUR",
+      "address": "",
+      "lat": 41.396052,
+      "lon": 2.179366,
+      "distance_km": 1.6313348751665482,
+      "amenities": [
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "airport_shuttle",
+        "pool",
+        "paid_parking",
+        "air_conditioning",
+        "spa",
+        "kitchen",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Barceloneta%2C%20Barcelona%2C%20Spain?q=Barceloneta%2C+Barcelona%2C+Spain+hotels&dates=2026-08-01,2026-08-06",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 218,
+          "currency": "EUR",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Olivia Plaza Hotel",
+      "hotel_id": "",
+      "rating": 4.6,
+      "review_count": 10369,
+      "stars": 4,
+      "price": 222,
+      "currency": "EUR",
+      "address": "Plaza Cataluña, 19",
+      "lat": 41.38616943359375,
+      "lon": 2.170909881591797,
+      "distance_km": 1.2965698123280132,
+      "booking_url": "https://www.trivago.com/en-US/lm/olivia-plaza-hotel-barcelona?search=100-147535;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 222,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/olivia-plaza-hotel-barcelona?search=100-147535;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Hotel SB Icaria",
+      "hotel_id": "",
+      "rating": 4,
+      "review_count": 9774,
+      "stars": 4,
+      "price": 224,
+      "currency": "EUR",
+      "address": "Av. d'Icària, 195, 196",
+      "lat": 41.3936882019043,
+      "lon": 2.199399948120117,
+      "distance_km": 1.7330776675057782,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-sb-icaria-barcelona?search=100-40535;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 224,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-sb-icaria-barcelona?search=100-40535;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Eurostars Grand Marina",
+      "hotel_id": "",
+      "rating": 4.2,
+      "review_count": 13631,
+      "stars": 5,
+      "price": 249,
+      "currency": "EUR",
+      "address": "Moll de Barcelona, S/N",
+      "lat": 41.371768951416016,
+      "lon": 2.1809000968933105,
+      "distance_km": 1.2125148944729758,
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-eurostars-grand-marina-barcelona?search=100-6743;dr-20260801-20260806;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 249,
+          "currency": "EUR",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-eurostars-grand-marina-barcelona?search=100-6743;dr-20260801-20260806;rc-1-2&cip=234716015",
+          "retrieved_at": "0001-01-01T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}

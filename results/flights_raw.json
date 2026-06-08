@@ -1,0 +1,1094 @@
+{
+  "BGY-NAP": [
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 47.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 48.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 49.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 51.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 52.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 53.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 56.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 60.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 70.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 70.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 74.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20NAP%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    }
+  ],
+  "MXP-NAP": [
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 47.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 48.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 51.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 52.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 59.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 62.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 68.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 68.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 71.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 81.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 91.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20NAP%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    }
+  ],
+  "LIN-NAP": [
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 129.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 136.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 146.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 151.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 151.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 151.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 151.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 163.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 163.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 163.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20NAP%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    }
+  ],
+  "BGY-BCN": [
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 46.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 54.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 55.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 56.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 58.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 59.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 71.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 73.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 75.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 84.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 89.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BCN%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    }
+  ],
+  "MXP-BCN": [
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 49.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 50.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 53.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 54.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 56.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 56.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 58.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 61.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 66.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 75.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 91.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BCN%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    }
+  ],
+  "LIN-BCN": [
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 168.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 176.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BCN%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    }
+  ],
+  "BGY-CFU": [
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 90.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 120.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 130.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 138.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 151.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 169.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 229.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 241.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 265.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20CFU%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    }
+  ],
+  "MXP-CFU": [
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 52.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 59.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 64.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 71.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 74.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 82.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 89.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 109.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 118.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 137.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 145.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20CFU%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    }
+  ],
+  "LIN-CFU": [
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 183.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 190.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 198.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 212.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 236.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 249.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 251.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 251.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 256.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 279.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 284.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20CFU%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    }
+  ],
+  "BGY-BDS": [
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 69.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 70.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 72.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 85.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 86.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 86.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 95.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 96.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 96.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 97.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 104.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20BGY%20to%20BDS%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    }
+  ],
+  "MXP-BDS": [
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 76.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 81.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 85.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 85.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 85.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 97.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 98.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 102.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 110.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 119.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 123.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20BDS%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    }
+  ],
+  "LIN-BDS": [
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 122.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 135.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 138.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 138.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 153.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 159.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 172.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 180.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 184.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 185.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 198.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20BDS%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    }
+  ],
+  "MXP-SPU": [
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 171.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 188.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 209.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 214.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 216.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 246.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 247.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 250.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 270.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 276.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 282.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20MXP%20to%20SPU%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    }
+  ],
+  "LIN-SPU": [
+    {
+      "departure_date": "2026-07-29",
+      "return_date": "2026-08-03",
+      "price": 77.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-29%20through%202026-08-03&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-30",
+      "return_date": "2026-08-04",
+      "price": 92.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-30%20through%202026-08-04&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-22",
+      "return_date": "2026-07-27",
+      "price": 95.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-22%20through%202026-07-27&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-23",
+      "return_date": "2026-07-28",
+      "price": 97.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-23%20through%202026-07-28&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-28",
+      "return_date": "2026-08-02",
+      "price": 97.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-28%20through%202026-08-02&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-26",
+      "return_date": "2026-07-31",
+      "price": 104.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-26%20through%202026-07-31&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-24",
+      "return_date": "2026-07-29",
+      "price": 106.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-24%20through%202026-07-29&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-31",
+      "return_date": "2026-08-05",
+      "price": 128.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-31%20through%202026-08-05&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-25",
+      "return_date": "2026-07-30",
+      "price": 160.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-25%20through%202026-07-30&curr=EUR"
+    },
+    {
+      "departure_date": "2026-07-27",
+      "return_date": "2026-08-01",
+      "price": 199.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-07-27%20through%202026-08-01&curr=EUR"
+    },
+    {
+      "departure_date": "2026-08-01",
+      "return_date": "2026-08-06",
+      "price": 244.0,
+      "currency": "EUR",
+      "booking_url": "https://www.google.com/travel/flights?q=Flights%20from%20LIN%20to%20SPU%20on%202026-08-01%20through%202026-08-06&curr=EUR"
+    }
+  ]
+}

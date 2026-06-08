@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Budget Travel Pipeline — Prompt Builder</title>
+<style>
+  :root{
+    --bg:#eef2f7; --card:#ffffff; --soft:#f6f8fb; --line:#e2e8f0;
+    --txt:#1f2937; --muted:#64748b; --accent:#2563eb; --accent-d:#1d4ed8;
+    --teal:#0d9488; --amber:#b45309; --ring:rgba(37,99,235,.18); --radius:14px;
+    --shadow:0 1px 2px rgba(15,23,42,.04), 0 8px 24px rgba(15,23,42,.06);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--bg); color:var(--txt);
+    font:15px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  a{color:var(--accent); text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  header.top{
+    background:linear-gradient(135deg,#2563eb,#0d9488);
+    color:#fff; padding:26px 24px;
+  }
+  .top-inner{max-width:1180px; margin:0 auto}
+  header.top h1{margin:0 0 6px; font-size:22px; letter-spacing:-.01em}
+  header.top p{margin:0; font-size:14px; color:#e8f0ff; max-width:760px}
+  header.top a{color:#fff; text-decoration:underline}
+  .steps{display:flex; gap:10px; flex-wrap:wrap; margin-top:16px}
+  .step{background:rgba(255,255,255,.16); border:1px solid rgba(255,255,255,.25);
+    border-radius:999px; padding:6px 14px; font-size:13px; font-weight:500}
+  .step b{opacity:.85; margin-right:6px}
+
+  .wrap{max-width:1180px; margin:22px auto; padding:0 20px;
+    display:grid; grid-template-columns:1fr 1fr; gap:22px; align-items:start}
+  @media (max-width:980px){ .wrap{grid-template-columns:1fr} }
+
+  .toolbar{display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:16px}
+
+  .card{background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
+    box-shadow:var(--shadow); margin-bottom:16px; overflow:hidden}
+  .card > .head{padding:14px 18px; font-weight:650; font-size:14px; display:flex;
+    align-items:center; gap:8px; border-bottom:1px solid var(--line); background:var(--soft)}
+  .card > .head .ico{font-size:16px}
+  .card > .body{padding:16px 18px 6px}
+
+  /* collapsible optional sections */
+  details.card > summary{padding:14px 18px; font-weight:650; font-size:14px; cursor:pointer;
+    list-style:none; display:flex; align-items:center; gap:8px; background:var(--soft);
+    border-bottom:1px solid transparent}
+  details[open].card > summary{border-bottom:1px solid var(--line)}
+  details.card > summary::-webkit-details-marker{display:none}
+  details.card > summary .chev{margin-left:auto; color:var(--muted); transition:transform .2s}
+  details[open].card > summary .chev{transform:rotate(90deg)}
+  details.card > summary .opt{font-weight:500; color:var(--muted); font-size:12.5px}
+  details.card > .body{padding:16px 18px 6px}
+
+  .row{display:grid; grid-template-columns:1fr 1fr; gap:14px}
+  @media (max-width:560px){ .row{grid-template-columns:1fr} }
+  .field{margin-bottom:14px}
+  label{display:block; font-size:12.5px; font-weight:600; color:#374151; margin-bottom:5px}
+  input,select{
+    width:100%; background:#fff; color:var(--txt);
+    border:1px solid #cbd5e1; border-radius:9px; padding:9px 11px; font:inherit;
+    transition:border-color .15s, box-shadow .15s;
+  }
+  input::placeholder{color:#aab4c2}
+  input:focus,select:focus{outline:none; border-color:var(--accent); box-shadow:0 0 0 3px var(--ring)}
+  .hint{font-size:11.5px; color:var(--muted); margin-top:4px}
+  .req::after{content:" *"; color:var(--accent)}
+
+  .dest-row{display:grid; grid-template-columns:78px 1fr 1.5fr 36px; gap:8px; margin-bottom:8px}
+  @media (max-width:560px){ .dest-row{grid-template-columns:64px 1fr 32px}
+    .dest-row .note{grid-column:1 / -1} }
+
+  .btn{cursor:pointer; border:1px solid #cbd5e1; background:#fff; color:var(--txt);
+    border-radius:9px; padding:9px 14px; font:inherit; font-weight:600; transition:.15s}
+  .btn:hover{border-color:var(--accent); color:var(--accent)}
+  .btn.sm{padding:6px 11px; font-size:13px}
+  .btn.primary{background:var(--accent); border-color:var(--accent); color:#fff}
+  .btn.primary:hover{background:var(--accent-d); border-color:var(--accent-d); color:#fff}
+  .btn.x{padding:0; line-height:1; font-size:18px; color:#94a3b8; border-color:#e2e8f0}
+  .btn.x:hover{color:#ef4444; border-color:#ef4444}
+
+  /* output panel */
+  .out{position:sticky; top:18px}
+  @media (max-width:980px){ .out{position:static} }
+  .out .head{justify-content:space-between}
+  .out .head .right{display:flex; align-items:center; gap:8px}
+  pre#promptOut{margin:0; padding:18px; white-space:pre-wrap; word-break:break-word;
+    font:12.7px/1.55 ui-monospace,"SF Mono",Consolas,Menlo,monospace; color:#0f172a;
+    max-height:62vh; overflow:auto; background:#fbfdff}
+  .keybox{padding:14px 18px; border-top:1px solid var(--line); background:var(--soft)}
+  .keybox .lbl{font-size:12px; color:var(--muted); margin-bottom:2px}
+  .keybox code{display:block; background:#0f172a; color:#bfdbfe; border-radius:8px;
+    padding:9px 11px; margin:6px 0; font:12.5px ui-monospace,monospace; overflow:auto}
+  .secnote{font-size:11.5px; color:var(--amber); margin:4px 0 0}
+  .copied{color:var(--teal); font-size:12px; font-weight:600; opacity:0; transition:opacity .2s}
+  .copied.show{opacity:1}
+  footer{max-width:1180px; margin:0 auto 30px; padding:0 20px; color:var(--muted); font-size:12.5px}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <h1>✈️ Budget Travel Pipeline — Prompt Builder</h1>
+    <p>Fill in the form, copy the prompt it writes, and paste it into your AI agent (e.g. Claude Code)
+       running in the project folder. Companion to
+       <a href="https://github.com/RobertoReale/travel-search" target="_blank" rel="noopener">travel-search</a>
+       and the <a href="https://github.com/RobertoReale/blog" target="_blank" rel="noopener">two-part write-up</a>.</p>
+    <div class="steps">
+      <span class="step"><b>1</b> Fill the fields</span>
+      <span class="step"><b>2</b> Copy the prompt →</span>
+      <span class="step"><b>3</b> Paste into your agent &amp; run</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <!-- ============ FORM ============ -->
+  <div class="form">
+    <div class="toolbar">
+      <button class="btn primary" type="button" id="copyTop">📋 Copy prompt</button>
+      <button class="btn sm" type="button" id="loadExample">Load example</button>
+      <button class="btn sm" type="button" id="reset">Reset</button>
+      <span class="copied" id="copiedTop">copied ✓</span>
+    </div>
+
+    <!-- TRIP (required, always open) -->
+    <div class="card">
+      <div class="head"><span class="ico">🧳</span> Your trip <span class="hint" style="margin:0 0 0 auto">required</span></div>
+      <div class="body">
+        <div class="field">
+          <label class="req" for="airports">Departure airports (IATA, comma-separated)</label>
+          <input id="airports" placeholder="BGY, MXP, LIN" />
+          <div class="hint">Use airport codes; each is searched as a separate roundtrip (no metro codes like MIL).</div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label class="req" for="availFrom">Earliest you can leave</label>
+            <input id="availFrom" type="date" />
+          </div>
+          <div class="field">
+            <label class="req" for="availTo">Latest you must be back</label>
+            <input id="availTo" type="date" />
+          </div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="stayMin">Stay — min nights</label>
+            <input id="stayMin" type="number" min="1" placeholder="5" />
+          </div>
+          <div class="field">
+            <label for="stayMax">Stay — max nights</label>
+            <input id="stayMax" type="number" min="1" placeholder="5" />
+            <div class="hint">Same value = fixed length; different = a range.</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label class="req" for="travellers">Travellers (adults)</label>
+            <input id="travellers" type="number" min="1" placeholder="2" />
+          </div>
+          <div class="field">
+            <label for="topFlights">Flights to deep-search for hotels</label>
+            <input id="topFlights" type="number" min="1" placeholder="5" />
+          </div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="outTime">Outbound flight from home</label>
+            <input id="outTime" placeholder="before 16:00" />
+          </div>
+          <div class="field">
+            <label for="retTime">Return flight from destination</label>
+            <input id="retTime" placeholder="after 16:00" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- DESTINATIONS (required-ish, always open) -->
+    <div class="card">
+      <div class="head"><span class="ico">📍</span> Destinations</div>
+      <div class="body">
+        <div id="dests"></div>
+        <button class="btn sm" type="button" id="addDest">+ Add destination</button>
+        <div class="hint">N destinations × M airports = the pairs fli searches. Keep both modest for reliable runs.</div>
+        <div class="field" style="margin-top:14px">
+          <label for="destNote">Hard requirement applied to the list</label>
+          <input id="destNote" placeholder="sea/beach access only" />
+        </div>
+      </div>
+    </div>
+
+    <!-- OPTIONAL: collapsed by default -->
+    <details class="card">
+      <summary><span class="ico">✈️</span> Flight filters <span class="opt">— optional</span><span class="chev">›</span></summary>
+      <div class="body">
+        <div class="row">
+          <div class="field">
+            <label for="stops">Stops</label>
+            <select id="stops"><option value="">— any —</option><option>NON_STOP</option><option>ONE_STOP</option><option>TWO_OR_MORE</option></select>
+          </div>
+          <div class="field">
+            <label for="cabin">Class</label>
+            <select id="cabin"><option value="">— any —</option><option>ECONOMY</option><option>PREMIUM_ECONOMY</option><option>BUSINESS</option><option>FIRST</option></select>
+          </div>
+        </div>
+        <div class="field">
+          <label for="airlines">Airlines (include / exclude)</label>
+          <input id="airlines" placeholder="Exclude FR, Include U2" />
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="alliances">Airline alliances</label>
+            <input id="alliances" placeholder="SKYTEAM, STAR_ALLIANCE, ONEWORLD" />
+          </div>
+          <div class="field">
+            <label for="layover">Layover limit</label>
+            <input id="layover" placeholder="max 120 minutes" />
+          </div>
+        </div>
+      </div>
+    </details>
+
+    <details class="card">
+      <summary><span class="ico">🏨</span> Accommodation filters <span class="opt">— optional</span><span class="chev">›</span></summary>
+      <div class="body">
+        <div class="row">
+          <div class="field">
+            <label for="propType">Property type</label>
+            <select id="propType"><option value="">— any —</option><option>hotel</option><option>apartment</option><option>hostel</option><option>resort</option><option>bnb</option><option>villa</option></select>
+          </div>
+          <div class="field">
+            <label for="roomType">Room type</label>
+            <select id="roomType"><option value="">— any —</option><option>entire_home</option><option>private_room</option><option>shared_room</option><option>hotel_room</option></select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="quality">Quality minimums</label>
+            <input id="quality" placeholder="3 stars, 8.0/10 user rating" />
+          </div>
+          <div class="field">
+            <label for="maxBudget">Max budget / night (€)</label>
+            <input id="maxBudget" placeholder="150" />
+          </div>
+        </div>
+        <div class="field">
+          <label for="maxDist">Max distance from centre</label>
+          <input id="maxDist" placeholder="5 km" />
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="meal">Meal plan</label>
+            <input id="meal" placeholder="breakfast included" />
+          </div>
+          <div class="field">
+            <label for="cancel">Cancellation</label>
+            <select id="cancel"><option value="">— any —</option><option>free cancellation only</option></select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="eco">Eco-certified</label>
+            <select id="eco"><option value="">— any —</option><option>TRUE</option><option>FALSE</option></select>
+          </div>
+          <div class="field">
+            <label for="superhost">Superhost only (rentals)</label>
+            <select id="superhost"><option value="">— any —</option><option>TRUE</option><option>FALSE</option></select>
+          </div>
+        </div>
+        <div class="field">
+          <label for="layout">Minimum layout (rentals)</label>
+          <input id="layout" placeholder="2 bedrooms, 1 bathroom" />
+        </div>
+      </div>
+    </details>
+
+    <details class="card">
+      <summary><span class="ico">✅</span> Verification &amp; final output <span class="opt">— optional</span><span class="chev">›</span></summary>
+      <div class="body">
+        <div class="row">
+          <div class="field">
+            <label for="providers">Trusted providers (OTA whitelist)</label>
+            <input id="providers" placeholder="Booking.com, Expedia.com — or ALL" />
+          </div>
+          <div class="field">
+            <label for="verifyLinks">Verify links (drop dead ones)</label>
+            <select id="verifyLinks"><option value="">— default —</option><option>TRUE</option><option>FALSE</option></select>
+          </div>
+        </div>
+        <div class="field" style="max-width:50%">
+          <label for="nFinal">Final options to present</label>
+          <input id="nFinal" type="number" min="1" placeholder="3" />
+        </div>
+      </div>
+    </details>
+
+    <details class="card">
+      <summary><span class="ico">🔑</span> SerpAPI key <span class="opt">— for verified prices</span><span class="chev">›</span></summary>
+      <div class="body">
+        <div class="field">
+          <label for="serpKey">SERPAPI_KEY</label>
+          <input id="serpKey" type="password" placeholder="paste your free key (250 searches/mo)" autocomplete="off" />
+          <p class="secnote">⚠ Never embedded in the prompt — only turned into an environment-variable command below. Stored only in this browser.</p>
+        </div>
+      </div>
+    </details>
+  </div>
+
+  <!-- ============ OUTPUT ============ -->
+  <div class="out">
+    <div class="card">
+      <div class="head">
+        <span><span class="ico">📝</span> Generated prompt</span>
+        <span class="right">
+          <span class="copied" id="copiedOut">copied ✓</span>
+          <button class="btn sm primary" type="button" id="copyOut">📋 Copy</button>
+        </span>
+      </div>
+      <pre id="promptOut"></pre>
+      <div class="keybox" id="keyBox" style="display:none">
+        <div class="lbl">Run this once in your terminal before launching the agent:</div>
+        <code id="keyPS"></code>
+        <code id="keyBash"></code>
+        <button class="btn sm" type="button" id="copyKey">Copy PowerShell command</button>
+        <span class="copied" id="copiedKey">copied ✓</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  Tip: the prompt assumes <code>fli</code>, <code>trvl</code> and <code>hotel-rates</code> are wired in <code>.mcp.json</code>,
+  and that you run the agent from inside the project folder. See the README for setup.
+</footer>
+
+<script>
+const $ = id => document.getElementById(id);
+const FIELDS = ["airports","availFrom","availTo","stayMin","stayMax","travellers","topFlights",
+  "outTime","retTime","stops","cabin","airlines","alliances","layover","propType","roomType",
+  "quality","maxBudget","maxDist","meal","cancel","eco","superhost","layout","providers",
+  "verifyLinks","nFinal","destNote","serpKey"];
+
+const MONTHS=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+function fmtDate(iso){ if(!iso) return ""; const [y,m,d]=iso.split("-"); return MONTHS[+m-1]+" "+(+d); }
+function v(id){ return ($(id).value||"").trim(); }
+
+// ---- destination rows ----
+const destsEl = $("dests");
+function addDest(iata="",city="",note=""){
+  const row=document.createElement("div"); row.className="dest-row";
+  row.innerHTML=`<input class="iata" placeholder="IATA" value="${esc(iata)}" />
+    <input class="city" placeholder="City" value="${esc(city)}" />
+    <input class="note" placeholder="access note, e.g. ferry to Ischia ~1 hr" value="${esc(note)}" />
+    <button class="btn x" title="remove" type="button">×</button>`;
+  row.querySelector(".btn.x").onclick=()=>{ row.remove(); render(); save(); };
+  row.querySelectorAll("input").forEach(i=>i.addEventListener("input",()=>{render();save();}));
+  destsEl.appendChild(row);
+}
+function esc(s){ return (s||"").replace(/"/g,"&quot;").replace(/</g,"&lt;"); }
+function getDests(){
+  return [...destsEl.querySelectorAll(".dest-row")].map(r=>({
+    iata:r.querySelector(".iata").value.trim(),
+    city:r.querySelector(".city").value.trim(),
+    note:r.querySelector(".note").value.trim()
+  })).filter(d=>d.iata||d.city||d.note);
+}
+
+// ---- prompt assembly ----
+function stayStr(){
+  const a=v("stayMin")||v("stayMax"), b=v("stayMax")||v("stayMin");
+  if(!a) return "[N]";
+  return a===b ? a : `${a}–${b}`;
+}
+function avail(){
+  const a=fmtDate(v("availFrom")), b=fmtDate(v("availTo"));
+  if(a&&b) return `${a} – ${b}`;
+  return "[earliest you can leave – latest you must be back]";
+}
+function line(label,val){ return val ? `- ${label}: ${val}\n` : ""; }
+
+function buildPrompt(){
+  const top=v("topFlights")||"5";
+  const nFinal=v("nFinal")||"[N_FINAL]";
+  const destNote=v("destNote")||"sea/beach access only";
+  const dests=getDests();
+
+  let s = "Budget travel pipeline\n\n";
+  s += "TRIP VARIABLES\n";
+  s += `- Departure airports: ${v("airports")||"[e.g. BGY, MXP, LIN]"} (fli needs airport codes, search each as a separate roundtrip)\n`;
+  s += `- Overall availability: ${avail()} (earliest you can leave – latest you must be back)\n`;
+  s += `- Stay duration: ${stayStr()} nights\n`;
+  s += `- Travellers / Guests: ${v("travellers")||"[e.g. 2]"} adults\n`;
+  if(v("outTime")) s += `- Outbound flight from home: ${v("outTime")}\n`;
+  if(v("retTime")) s += `- Return flight from destination: ${v("retTime")}\n`;
+
+  const flights = line("Flight Stops",v("stops")) + line("Flight Class",v("cabin"))
+    + line("Airlines (Include/Exclude)",v("airlines")) + line("Airline Alliances",v("alliances"))
+    + line("Layover limits",v("layover"));
+  const accGen = line("Property Type",v("propType")) + line("Room Type",v("roomType"))
+    + line("Quality minimums",v("quality"))
+    + line("Max budget",v("maxBudget")?`max €${v("maxBudget").replace(/^€/,"")}/night`:"")
+    + line("Max distance from center",v("maxDist"));
+  const perks = line("Meal Plan",v("meal")) + line("Cancellation",v("cancel")) + line("Eco-certified",v("eco"));
+  const rentals = line("Minimum layout",v("layout")) + line("Superhost only",v("superhost"));
+  const verify = line("Trusted Providers (OTA Whitelist)",v("providers")) + line("Verify Links",v("verifyLinks"));
+
+  if(flights||accGen||perks||rentals||verify){
+    s += "\nADVANCED FILTERS\n";
+    if(flights) s += "\n[Flights]\n"+flights;
+    if(accGen)  s += "\n[Accommodation - General]\n"+accGen;
+    if(perks)   s += "\n[Accommodation - Perks & Rules]\n"+perks;
+    if(rentals) s += "\n[Accommodation - Rentals specific (Airbnb/Apartments)]\n"+rentals;
+    if(verify)  s += "\n[Accommodation - Verification & Safety]\n"+verify;
+  }
+
+  s += `\nDESTINATIONS (${destNote})\n`;
+  if(dests.length){
+    for(const d of dests){
+      const head = d.city ? `${d.iata} (${d.city})` : d.iata;
+      s += `- ${head}${d.note?` — ${d.note}`:""}\n`;
+    }
+  } else {
+    s += "- [IATA] ([City]) — [access note]\n";
+  }
+
+  s += `
+Step 1 — Flights (fli MCP server)
+Using the TRIP VARIABLES and ADVANCED FILTERS above:
+- Search each Departure airport as a separate roundtrip using the search_dates tool.
+- Calculate the outbound search window: start date = start of Overall availability. end date = end of Overall availability MINUS Stay duration.
+- Map Stay duration, Travellers, and time preferences to the tool's arguments.
+- Apply all specified [Flights] filters (Stops, Class, Airlines, Alliances, Layover) to the tool.
+- Multiply the single adult fare by Travellers for the trip total.
+Sort by cheapest roundtrip. Save all results to results/flights.md.
+
+Step 2 — Accommodation (trvl MCP server, run searches in parallel)
+For the top ${top} flight options, search accommodation at the actual destination (not the gateway airport city, if different):
+- Guests: use Travellers variable.
+- Dates: check-in = outbound flight date, check-out = return flight date.
+- Filters: apply all [Accommodation] preferences (General, Perks, Rentals) to your search natively where the tool supports them.
+- Budget: apply the Accommodation max budget to the verified total ÷ nights (if no budget is set, rank purely by total trip cost).
+
+Then VERIFY every shortlisted hotel with the hotel-rates verified_hotel_prices tool before
+ranking — the free trvl prices are Google Hotels teasers, not bookable rates.
+Apply the "Trusted Providers" whitelist (if not ALL) and the "Verify Links" flag.
+For each kept hotel, record the verified total (taxes incl.) and a working per-provider booking link.
+
+Save raw results per date window to results/hotels_[dates].json.
+
+Step 3 — Evaluate
+a) Anomalies: flag any result that bypassed the filters (e.g. a B&B under a hotel/3-star filter, or a 0-star property passing a star minimum). Keep in the JSON for reference; exclude from the final ranking.
+b) Price & tax: rank on the verified TOTAL (taxes included), never the per-night teaser. Prefer the all-in provider (Booking.com quotes taxes in; some add them at checkout — flag those). Any local tourist tax is paid in cash at the property, is in no online total, and is the same for every provider — note it as a separate cash cost, do not estimate a figure or fold it into the ranking. Discard hotels whose only links are vacation-rental redirects (google.com/travel/clk) that 404 — keep working OTA links.
+c) Verify: web-search each candidate. Confirm it is currently operating. Collect review highlights — cleanliness, noise, distance from sea, recurring complaints.
+d) Location: for each hotel, note the area, distance to the nearest beach, and distance to the ferry port or airport.
+
+Step 4 — Final output
+Rank all combinations by total trip cost (flight + verified accommodation total). Exclude any option with a critical red flag. Present the top ${nFinal} valid options only — do not include filtered-out results.
+For each valid option include:
+- Total cost (flight + verified hotel total, itemised; note any property-collected tourist tax separately as a cash cost, without inventing a figure)
+- Hotel: rating, review count, star category, key amenities
+- Location: neighbourhood · minutes to nearest beach · minutes to ferry/transit
+- Agent verdict (one sentence)
+- Google Flights link for the flight
+- Working per-provider hotel booking link (lands on the rate — not a generic search page, not a vacation-rental redirect)
+
+Export to results/final-results.md.`;
+  return s;
+}
+
+function render(){
+  $("promptOut").textContent = buildPrompt();
+  const key=v("serpKey");
+  $("keyBox").style.display = key ? "block" : "none";
+  if(key){
+    $("keyPS").textContent   = `$env:SERPAPI_KEY="${key}"`;
+    $("keyBash").textContent = `export SERPAPI_KEY="${key}"`;
+  }
+}
+
+// ---- persistence ----
+function save(){
+  const data={}; FIELDS.forEach(f=>data[f]=$(f).value);
+  data.dests=getDests();
+  try{ localStorage.setItem("btp-builder", JSON.stringify(data)); }catch(e){}
+}
+function load(){
+  let data; try{ data=JSON.parse(localStorage.getItem("btp-builder")); }catch(e){}
+  if(!data) return false;
+  FIELDS.forEach(f=>{ if(data[f]!==undefined) $(f).value=data[f]; });
+  destsEl.innerHTML="";
+  (data.dests&&data.dests.length?data.dests:[{}]).forEach(d=>addDest(d.iata,d.city,d.note));
+  return true;
+}
+function example(){
+  const set=(id,val)=>$(id).value=val;
+  set("airports","BGY, MXP, LIN"); set("availFrom","2026-07-22"); set("availTo","2026-08-06");
+  set("stayMin","5"); set("stayMax","5"); set("travellers","2"); set("topFlights","5");
+  set("outTime","before 16:00"); set("retTime","after 16:00");
+  set("stops","NON_STOP"); set("cabin","ECONOMY");
+  set("quality","3 stars, 8.0/10 user rating"); set("maxBudget","150");
+  set("propType","hotel"); set("roomType","hotel_room");
+  set("providers","Booking.com, Expedia.com"); set("verifyLinks","TRUE");
+  set("nFinal","3"); set("destNote","sea/beach access only");
+  destsEl.innerHTML="";
+  addDest("NAP","Naples","ferry to Ischia ~1 hr");
+  addDest("BCN","Barcelona","Barceloneta beach in the city");
+  addDest("CFU","Corfu","beaches across the island");
+  render(); save();
+}
+
+// ---- copy ----
+function copy(text, badge){
+  navigator.clipboard.writeText(text).then(()=>{
+    badge.classList.add("show"); setTimeout(()=>badge.classList.remove("show"),1200);
+  });
+}
+
+// ---- wire up ----
+FIELDS.forEach(f=>$(f).addEventListener("input",()=>{render();save();}));
+$("addDest").onclick=()=>{ addDest(); render(); save(); };
+$("copyOut").onclick=()=>copy(buildPrompt(),$("copiedOut"));
+$("copyTop").onclick=()=>copy(buildPrompt(),$("copiedTop"));
+$("copyKey").onclick=()=>copy($("keyPS").textContent,$("copiedKey"));
+$("loadExample").onclick=()=>example();
+$("reset").onclick=()=>{ if(confirm("Clear all fields?")){ localStorage.removeItem("btp-builder");
+  FIELDS.forEach(f=>$(f).value=""); destsEl.innerHTML=""; addDest(); render(); } };
+
+// init
+if(!load()){ addDest(); }
+render();
+</script>
+</body>
+</html>

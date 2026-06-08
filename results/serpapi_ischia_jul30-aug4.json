@@ -1,0 +1,1636 @@
+{
+  "search_metadata": {
+    "id": "6a270258822c5ff9d8a7b1a7",
+    "status": "Success"
+  },
+  "search_parameters": {
+    "q": "Ischia",
+    "check_in_date": "2026-07-30",
+    "check_out_date": "2026-08-04",
+    "currency": "EUR"
+  },
+  "properties": [
+    {
+      "name": "Hotel Miramare e Castello",
+      "description": "Genteel hotel with a private beach area, 2 restaurants & a spa, plus indoor & outdoor pools.",
+      "link": "http://miramarecastello.alysandyischia.com/",
+      "extracted_hotel_class": 5,
+      "overall_rating": 4.5,
+      "reviews": 352,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€311",
+        "extracted_lowest": 311,
+        "extracted_before_taxes_fees": 274
+      },
+      "total_rate": {
+        "lowest": "€1,553",
+        "extracted_lowest": 1553,
+        "extracted_before_taxes_fees": 1370
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/Z5H97g4kdCuwNVXIaymD02ANh83x4WgBC1RMT__Pz38TecqZ1DdnLjt0ZaytWF5WwlreNoQAVxdan8IAY78dEcaJGZTl97-k0DaiJ1QkmKhbYkPghRDkXE0xIlcyq3SrpJT1GrPEXa7uvC4CeIfR9WWnYgYBNA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJkvoRynHDFdOqMGAsOSJ7S6tw4m5yVq99b5XdTyTWiJeuysnGEi7bE7vpI4CHLKz0n8wyu5LulmGbCqR0py3vkrd9qx6ooumpDnX4hKRl-kJ0cZrJoVAzZEE2Zqs8nZAk7XLqWw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdIV3XXXKD4zTDvw2x9HvuH4MU9dgfpGycImzyYYk-ce8MOWT1Q9jh6ofqtmyHJhROLwolNOiRYQr4HI5LBfID1FdjMeVNBCGGoI9lcX_fKIJBf3vv9K2827p-aLnC4SmiOS_N=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5drOsWXLUrtIIu0NX9zoFoJxGLzIj3IyiJ5m3pvg6r4jkBfnjSr42_f-_pmAnoNgGw5MFVHyW2wt_SDW-dLiYYwVuXVr1GEYvTisHMltFYuwsfyWLy6q13nL9Dt1nMNeittA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdOudjN0xGk0WH5c2FFH-yO0kKYnVYi2piLDt32K7P-dQYpXcjQi_gf-_8NueyBldomwu937As22fq9nahGSchAGn4eQPTMDwrwdjILCtsTTRoDCztdX5ricOWrbwiMVTXOmSFDg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/RbrvJP0BLOZikHcViQIsRKpQcT-49CmcWO1-lXstCAoEwjPsuhwbN9pzm5nB-1gY_xv-JN0pv7KV1i22gX2ywzbMrk1YfFxMgsJPUUD1ygXnW4AXkeU2Q4W9Fg_3XDNsTrfAzNveYbHSECCp5SB2S8jgelfUy6A=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/JX63DUMejoENEJpSsOxw5GsjHWyk9f_DSSg0PbQy9B1e4-liO5B0DF4a4g9M8KFUO1in1CxQd_avqk4NXdoHR1AXSHeJlnhSo_EiuFUPzA-3d-bwUrvYXZPH6Q0CKWazPJyonz1fAgzmBpmpmiBO-LwD0mdZ7g=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/dvwZfPhN8xSRN6ae_Av6pRL2vl1z-5MoqpqC2uYXFGrvluIYZc3qXJUxMBY16S6-8b6KT89KdSd-ONyEO5QCfhPIjiPKsUNkjpRSJyJUCUoelosnlpmEPXUI65rJXRj264e7mgQh-DtVE2nbmzCqRX533Dh0DdI=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Az92c0Zahsqpi8pI7H1h26b8EOnQX15ldOG5LrCRBjzYgYWPZSTyORMPIQWfbSi_AsW6yb591vscErxRPCvSuUzD5MIqQWdFGrrAR_m5Pe40vOgP0jVVL02lzm-h2c53pd8um3tCCL8P0gSusoDqnSYEV_Z0sA=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Grand Hotel Il Moresco",
+      "description": "Upscale hotel in a 1950s villa featuring a restaurant & a piano bar, plus a private beach & 2 pools.",
+      "link": "http://www.ilmoresco.it/",
+      "extracted_hotel_class": 5,
+      "overall_rating": 4.7,
+      "reviews": 253,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€401",
+        "extracted_lowest": 401,
+        "extracted_before_taxes_fees": 364
+      },
+      "total_rate": {
+        "lowest": "€2,004",
+        "extracted_lowest": 2004,
+        "extracted_before_taxes_fees": 1822
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErk5NyQUyWWahlUe0-AUd9OE093aOpoQMq8Zs7FC0JFIyxQ3Gab51dmL7Zu9T_BpGlMbIb7sgXEPiHCJPls0N9kr8akXyJ84CcZ9dDv3QiZvYXnEv6ch-9_gPTefjdhGbq4rHTdA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/UC3vFw20v3miZTXvdqTB8uPV5zmUBG7t9RwY2Wg7ACB2I82sus92EoMyrDN7dXVbbpOoiCeSUMhLmDoVf3mbvJ5aaBB4J1s2ljjDmD9gLynxtEYSeE9_qvwDzHtdO5_OCNGN8Oz3fkpaklO1-fsqwgJ97EWqRg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsZuznFPv8j7bFjm5eS72AKCC9dAB9wtBMSNG3K_CVMfwYBdCvk7-q1SBuupa644yF-QQS7MiknqI7fM3pkZYcKUE1Gdm8m3Ck0i11bwVCxLPngr7xi4Kn7FNbsff7-jxc29NKrjkYncBD=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/GHAu4M5zjt51i6xVyYGP73Vc49SlPDkGhtt788UQvl9giqWp_LZncunt-YbrXiWKPjE1Kr7Z31yAca3yRuNu83W2YBHzl4K2-ofbx1IDSSKq8DDETUPTTmf93YHlkbw-mG4ZGwSEVUUq0E1VzceWg4IuRHG-xw4=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2S6oqFp5vBwqcutsBz2OK39hXIX8MPXKEuk-E55Mp32Z1qm8xyOK8lbQzgHucg0Y_OrJCyeVJ8kDxK6jY4P_8EW0p7_mbRTsA6EGwCbXHk05TrWb31JvKERuPUiawbFTIq_44VsJyiQM=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuntv6xEPY0ceOud3AzgVENKta0TYF2-AMZe3dvH3ZmiMSyS7IGL7McHiF3iAg3GLOQOVRLszUMM0gTk29OlXvjyQPknHJkcII4Tk26zkVeNZZEKHuZAUrjdcXaM_Mvj6amsPSsdl1bzmD=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzenbRZTTb96xAD3WxYgm4dUncQgxs_CKWTFwQnBMBp2U07MlEPiOdPEf-NUgHAvuWtRthzKfJab4OzufLEc-5lndmpf5JVM7UC2PMZ5ptotHBTo4c2YnC5GlPD4XQWTQA_rzckg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0EBrtrvGkRlEK_rX9SPg5r6xuyG9c39GFQpSzoCsvFOVCyWwmVrtwF5Gc25pIPPl_lWCyD9syKaF9GZVgCOvQTEm6ATKyQsQsYnVRAqr9TReMt639U0tMH426lPS0RWku2eg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEznpUGCBZFSw2nCOqb5UkvmXzoh7f1YAQCai-g-zT2dvYIZKNgrYaMej8UrBWUYXc8UJhg3jhHsABY4-NK1BRYD3CYJAWgrQo4dg8g1TWo5c6L4zhzmEvvTYeAjfdqWKhpMkm=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Kid-friendly"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Mezzatorre Hotel & Thermal Spa",
+      "description": "Choice waterfront hotel in a former watchtower with a spa, a terrace & an outdoor pool, plus dining.",
+      "link": "https://www.pellicanohotels.com/en/hotels/mezzatorre-hotel-e-thermal-spa/?utm_source=google&utm_medium=local&utm_campaign=googlemybusiness",
+      "extracted_hotel_class": 5,
+      "overall_rating": 4.7,
+      "reviews": 512,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€1,760",
+        "extracted_lowest": 1760,
+        "extracted_before_taxes_fees": 1752
+      },
+      "total_rate": {
+        "lowest": "€8,800",
+        "extracted_lowest": 8800,
+        "extracted_before_taxes_fees": 8760
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSkLQO61r_UslWl1Onl3N8VJmCiGiIVZg1AmypfgejDO0VoPWfZ_C_gW76iExYQnsq75bq2zknV2bpX48CCpQnQSdbP_brlJYOcOZwv_o_u2uEjgGdB9lVpZuRfd64ng=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/4OGRpAzANUNrh84RpdhxVEms5zQ6qNSd8AZ0436KvxXvQ-3kTGbs50B5wQT2Fe0ve0gMF3HsJtsMVt4OSCNmFq5yhkC6b5zC9RlGjCYZlibC2Hg_ICESUfXNkXQklgt7209aa83kto2xn5S5KtJu-XNfVB5pHKM=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/QY2psZXDv6UcJSm3rsBdPkArpY6EuydeXQtVpnvq0He6tPjpo-DKp4d7EBnjovn07F0BTZHhyQnlxDc2kVSkFzNuFLVbwmyxSj8oF_KwLAkE1RzLeqdhDJ7OC7AdrAe8F4XrxkjF6Ls7M9clT4DPjKhjPDlacA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/vHoaHyVnuJPelqjyLWgbpdzK90JBM-0ssWbCRMU-l6Twh_wMcxsZOzCqmONfdmV8WqMQfqjcpuoz4m2AA4QEH5GnCqJnFI-Aq-pJqB_FUiN8N_1xWMwIajNUnXmECIQoXgBGvmLR3-Oti6fG-7ovfcAUcc5smZc=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/H7lHjRAYLqEBP-8fqwp95BerNkvZ-h1djlKJey92YX2z7_Q-XZbuzo_S-V_JXxr174k7tupefFCaZd-g8KB8GaEivc8I2m17LKwFSkxKIoqvE1eQaMPFG3xaeMcyLr_LgloAF4FWkQNhOFM6Rzf0d_21dwVBey4=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/CQTGTMTAB0jcAEgampR3E5eW_WMBfqmMIJy5KC6yZSqKQ61MUo7POR5R_GvTpCPvSfF5UpvO-GZKRwtwJcekNH8cPfdETtV7BQIMdqGOI5vK3vRoXK_IsUkiih7KPfVAcM-IVUzEOT-8nBxOPzZw2gQCa-HxvQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/bg_59lDKCv4g7YmM8avjr0cvnAQB4TWXitDaqW75tpFclsxMumDHUgCXpI802_SnSF6vjzjtIn5IHPM__tVcZNv7ggSGvt8DrPiKSJYGQro0pQDSQxhs5YfDuy2tj1PsyjNkseWL-6iOG9DtsdfMIjCA-qAhTQ=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Continental Mare",
+      "description": "Informal cliff-top hotel with geothermal pools, a relaxed restaurant & a bar, plus free breakfast.",
+      "link": "https://hotelcontinentalmare.it/",
+      "extracted_hotel_class": 4,
+      "overall_rating": 4.5,
+      "reviews": 304,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€196",
+        "extracted_lowest": 196,
+        "extracted_before_taxes_fees": 178
+      },
+      "total_rate": {
+        "lowest": "€980",
+        "extracted_lowest": 980,
+        "extracted_before_taxes_fees": 891
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQYpTOVaZdYC_Ry0oqiByEetptSLBlZmssDtkBnZ9BxSiHSItcScRWdkrSSc-hWUAW79U0P3tpwZQA7Rb2tuBph9gJdsAHAUgPr9qyUrczhFh6EiejHkjgAB_aLEMfFA8No1xdFixirkfS=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeFnGKhwORaS75Q16Vfw4p8Tx9m9tUKwb1fF9dkiQbdU2ZTs3y_WC3nYBnVIKOGt0HZE15zOO0bOfuZPpH8Eqh9rfene9HUJ-O-THX35r-jPfz7-iMShAeioiUeCvMNLOu6G22=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmxtJxrriBYsTfGetYvTz7xwOvxyY8BO06XEz-JTDROvh0CZeIERo9dY1VU9fr1vU-gNq2ld1qO9J4UOqIhZQn7PVeJ_9Ncpou3fwq2lpjl3L-bQNe6dhsvKg9GCMCGDWxPeVwVgE-30V7=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGiNJ-4wu-t7tsYkpgVwTqy4RLkOZOuZKb9ysAZb6tK8HfGBLCaPb7164sCKs3ST6RjWe7GFRUMTXjYX9GE3s32zDH5CcIPphHnpTVJn1Fr2b8I-u3pBRfs242T_cy4xlQ5yt_gx_HYj84=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmNbKikFawfIL9pH-FQlv-DKAqi9sChsT34TPr4_U1auYiH-cIEKMe9llnpE8A0bw9DOfKQI7riKFv4riqcXS9aelMKaePgv2mffJ__e0lbkjpbDdc2IEfPEsnEJiAglA0rStYVI1wPcE=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/mmZKfSG6dh2pWzEvDHOhkHOE_Zev-NF2jnw6xK6KTuBW2OC2DPQMLhrbrD-YqkTfsw8YgnWAb2OHTztmbEI8H_jGeIOvhueCAR0TC0k-d2FKnIT5PX73R2Gu5TLZT_fJlkXPS9s4h-0Qb8HnljuEfAahoWsUpS8=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiu5b7waZQ4OleSnye8vCt22ZuXcL4mDg8OGuG87g0biij52kEyJd5J9M5iBbggU8miCIPgEjuBj5TqzdHspG3dTQeB_u12WjlNd1fqSLW6a3drwhfqRABJZ98EQ7MJTJmnafBcOgmTZ0h=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENyib-4Uc8xzEQu2u9i1eb1uR0knN7rchCtPYOr_ul4UoQwSpG2-4M3hnZ8f9Bpjw4lwK20brw9vIRYuBhKkoh63f9eUQILQRDDHv9SnlW3rsokly8YzfYpNZhDxYwZ4zZqyLmeaTlzPgX=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/eL94-VrJ9q8qfBUa0SG-cq6Cs3vOo_iMgenQQask3huWaDIuAi25bJGvAIpqknoKMtUTaqstCC9VMV_083iLLfByYtdGib_Fz2FUBJlmA6soOu7SeAAGog3Ba4RsBKHEwZLu7kGlwpab7YjvVnGCKETNlLgAszk=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Miramare Sea Resort & Spa",
+      "description": "Sophisticated resort with a private beach, outdoor pools & a spa, plus restaurants & a bar.",
+      "link": "https://www.miramaresearesort.it/",
+      "extracted_hotel_class": 5,
+      "overall_rating": 4.1,
+      "reviews": 188,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€482",
+        "extracted_lowest": 482,
+        "extracted_before_taxes_fees": 426
+      },
+      "total_rate": {
+        "lowest": "€2,412",
+        "extracted_lowest": 2412,
+        "extracted_before_taxes_fees": 2131
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/lHUMHZLhIG_WtrX9HYl5n_v-d6aJHKakB_4gCV1qNpWlCL76SBi0JH0ZYhJQ01ap71kB4QLOWPbdF3goPR7NBr-cSM6iHeFgXkwYNf6kId2Wewx-5xl9JyJ3E-7Y-nOEPDsYHedUyJK_s56OR4iAVHxW0kYXJg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/W2BKfRf35BRmWTOMA5pjgv1x3gLuLDEHxwT0sq9meLtd0jjpJiqpy16dLva-Z2ax68wGl0xS-YjtyOv3Le6ZEk1_BlbhAVUHqFp8psfxV5GKh0_NjoO9mtV6yVg2Hsv_O6B2LHK67ICVs0K2mj2aCSsl0c3FFg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESrND3_R13sDobYGMMZCfSbsxIPtYayG6ecSysaIohrbdXefrZzihH8c5ggvuXskjV6a_56vBGvlJJjXTk3JCsDzPCZAo7FgGhp3eW_2NFaI5w8QWdaazRVu8ttg6o2OnVMw0c=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/VEVK0ems3HYq9B7geeAhMokD9SzKBHr6x88eIrqOrlq4By8f7o9DjxT9npnssVoz6OKgzLhd4YgbLvJRMiN8-9BnQkbcD-C16_Bd5J0teZLlfCv2x96W4hYD4G3O4I61pdf6-jnVsawjXkopStJB_NOQ77WbUw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Eq0bWyBcZiCwNvKTHe7EfR5vMFLzSwMULNzuN64cNB8j2IkO_JzKR2RXaq3y4EDYWF-DMVbvDAq3dCU_7-9SnI7yYjege2mYeQvBflg6LeEmqGxWn-3bkR5-zeha_Sb6NTGk5_ckFvJbig4cdu7G16H3vvwoK_o=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/sjbsRywzltoHUYR2vwfdIEbrUpwp-kRUGFnoKlUW6gwR4EwNYpPu5NoBNe86hDuelnpiXKdJEp8IZuu0ppm5H28DfLjiP13vaax-J-0sBTOwOvT7sei6H0hQoT0_G5AAtudxHocKaRd2I1u0MUuxNYzyd-JEyFQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/oQMxvIW78y78BwW1JqB35l4LhFgpN3UnY-T2nAE90XLiX5J8a_MNj6tmGO4BCOb-z_Qzp7WW05huL2MeCUgtXkufee-mQ2QScBadLNu8ddQRJ680uIExK8yfCQPFlBco0hisTsBvlPLxAL3tHG0TgC9by44k_w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/SUFIFcpeKYot-pcMGn-hc42RrX9jIR_ANOfT7R9a_9A1Yzs-fs0FjC77caQgPR6VKZnvtpapb7PrL2zvIvBoZ0015Smo14bT_mVpwo-UnxrcxAG_VSP0MRJDZfqpKRSEu9uqSHT7c2xv62ACLsvO8ZFqJf25ELc=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/g7BeHWS7TePM8G-Zsh3dOcIWkJ9WwcxS-HT26I1DUrOVoxvW9F5nex6yykl4jF_UT0_Tiv0BYr_8M6GTIl7uyJ4Bw0Zrc4kw9Cmxs6sm5sWFS-T2yXLeUUhqS9nxewbhVVgfw1Q2Y8dw59tiFVqYXyhiHH8Ju1Q=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness center",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Business center"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Punta Chiarito Resort",
+      "description": "Refined property featuring 3 thermal pools, elegant dining & relaxed rooms, plus sea views.",
+      "link": "https://www.puntachiarito.it/depandance-resort",
+      "extracted_hotel_class": 4,
+      "overall_rating": 4.6,
+      "reviews": 630,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€204",
+        "extracted_lowest": 204,
+        "extracted_before_taxes_fees": 178
+      },
+      "total_rate": {
+        "lowest": "€1,018",
+        "extracted_lowest": 1018,
+        "extracted_before_taxes_fees": 891
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1CPVZsbnsBs78dZrYypi-D3lKj7GvY6eGO4dVk5wG2S97z9EqVL-1BBTssDf3ye-Ru5T8RV7fsO_RHtt_KmJQG8yO-joO6Jl_k8b4CS1YJEw3UJE87kl-H7G84qZJeOydK7IMO9r_b-PF=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfEZie2eho2HPODpGcb5xSmM_UsRMKB61yTO1wrwBXwy3fgg2wrrybWM1HILyn1-e3HGLIzwmFd8xA5lbgKWyn5fXD7PU-W-nAG2YTg3n_4nnRnlUv66UCPH6d0c3f4FAENnyHDLsTdZz0=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/GYjm3I_recKW4XHnM7cE3zztdspkpXpanGTBM3VjN07Rgo8lKDO7WiFqtGbejJgcVX-NJ0gUg_CTvFKvB2IQw55lWe6Y-QqyAuhWgPVaoRyOyRIS7as3KZKuw9G1YRaHPkR9DJKuHaA1Tn6-is0_lMy2ETyhbAI=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcqksTHdxz0u1x5R4p-i_JpZEcuGqXHXWvJnWTQl9JTN-xz8u41xqj9CbmT6-ghB-wdmj9g1JWzHtfTaDmDYubFzbku5kU8nstp5Y6MlmBIkESoCfIP95NKH0lrbeQ8Q-8N5C1DiKbtuq_=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6Yi2x2AXD1VS19CGg5mDe1TZxS5H71dgYJEs3cGS3W-Gag78Zn1fLqUf5rdwg4UVlJpMgQW1JpPKSh5QDEGMnxLGSq7hBUpgt1qSqEe1sIxlwxuP91VaXlqeOs7URj5TLcY6si67sqvii=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/DfOKCu7WgzF-DRO2iHB7REhcdlly_AAdJM-UbR4Vq1pPwtBmuqIbvcT5b9tXrqvFwemvI6WXcQ7Fvvl9lPSr2954Z92EHruTZ9BzN3sImmL1t3Vv-ISNxUt8XynXVTg07utXU_rDpNckCkjkL37URBi9N_IU76w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnOvP2WclFS6Jagjp02-Kr1UJyYsfm3b3xHkK8Xgc4MJT16QTw-G-eJWUu1iOhksNlpFY4Onmaon_Q869_FZjYIigJ3UPjSb970BiOMrxy1JAV3E_CHxB_4XSna6gswk6GF-McolIIa5Xz=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEo4ENd-SFFHHH_DeBPWqa5ZfS4DQh8ajnPr3_3PFCWXtTG4lu2FYhxGOtHmTYnCzPgOcSY3o2mL_VFGj1rRq3FMi2DUWholmjyvJi6AhOo2tJ3CAKVNt0sHx4tpoWudHe0T0lV2Mgq3MiI=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/7SCWqaN7Is8PPIcD-GBnMuIP2HkBctf0ijyxjE-9Ze1VPI79FbtUkuSf-EHDAW13diUwnRbx1e3Tv-fsG4GWANN0Wja1r7DiYhBV8Y94F-WXaDqm_weK2KuxXza1wS2YMyM5D0cDCToitzYa7fm7-5lii3dgBk8=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Kid-friendly"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "La Scogliera",
+      "description": "Airy rooms with balconies in an elegant villa offering direct beach access, plus dining & a spa.",
+      "link": "https://www.hotellascogliera.it/",
+      "extracted_hotel_class": 4,
+      "overall_rating": 4.3,
+      "reviews": 206,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€180",
+        "extracted_lowest": 180,
+        "extracted_before_taxes_fees": 164
+      },
+      "total_rate": {
+        "lowest": "€900",
+        "extracted_lowest": 900,
+        "extracted_before_taxes_fees": 818
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU3WkA4rXKAPzmXdCbxKXTw086LEvuM-k4s_6kC1coYGBOaPs1F1FNEdOy3MdcDaQz--7V3lEV6dNIa8jB2_DJMF_NJLFkZkvewqJQpGYCOk3zMMspYtGTu4ViWUNOY3kr9nJt=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/6KzulEC_rg8xrMYnLS_GAZ10Gpr0GIqriJ45z0rXJEML03ytSPdF62HuIKUN1twPOaCr8j31vT5yu1ABWwmtxP-sAQUDpUAlmGTFQE-pJRa_7T9w6gn2u6uwbngQn13u2UHygYTPzUyxfN4WEFAN7ev5EJenhw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEA871iBwqbSIShwYz-WRkRXJslDO7U5hm_fSE7OEef61iUa0nps2F9opo11gmaYvytrF9BS-RPWqIT0qw1lZsuhGsIgHNb58hzoXqV92hY-1kFaPw_hicrrH5_zTbV9d5G667G=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQNdE27NgT6bbnWFS2ZCrQ4NX2FcFlZScLWTKZ9mZm7DU1SIlfb6m0IV9AmNiR4okB5-ngWSPSeDx2bh8hoG2dXB_pnwELpvh1difYlTAF3DYzYmDgpZ32pYP6Az4_uFYa0ZiKTA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiIw1QcXgZ0owP4qazItdMGkWzkQfIl9U8zPIn36-1I55REghIFsrP83U46LxcgpUe3wX-f2Lpj5kQa7McWoZCNENkio9w3xNimxs67BeZUxM5wUUDBLq0LlRGZc0nVDtPO0cujw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCCZSpu5LKL9DD2TmzYMfPE9f9vL7TX7iVtND0PI_n7guddX0dqTeagYd5yG2T67lnjM1tezJy6lMdfEHUyoYWYmnbhlp-Ny5wZmCDTZs-WS3G5L5gjgWr-u2p-f8aJwXUjGMv=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExbsdHiBGwueONcRQs8HHeTp-WcjfeNFhMlCtgHWzikePNvXBdgHA7p-SZ3DEAIkUKSqnutaM5qzLyoY4bJv8frymhUKd-zez_TahrywqvjssEEuR1NPpaVugo2l3aJy7939AVvQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuXok-C480Mf6VDcsSfx78w861vKt5S6FZkMvfmHm87vlJFgo9SGHJBxaADpzzIsfChuezSrFiQCktoeKB_fWkeqT_UXYdYIww_Bfq_ycuElaWbwsVFD6RHM19K8dP3H6mM-cPWw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVsn3y8wq8vP5pbUs4j48NQVkbIr6fTPMhe1nm0fk2sZH3BN6BGWz-zHJqfvtlx-0d-VYGO1GGJ-8y_YOSk8QruiFzPzhyBJc0fdHkXyLPtKeCLmFDXKpvyB7z4bJrm5Jj1__8=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Ischia Forio, Exclusive villa, Punta Caruso, 1",
+      "description": "",
+      "link": "",
+      "extracted_hotel_class": 0,
+      "overall_rating": 0,
+      "reviews": 0,
+      "type": "vacation rental",
+      "rate_per_night": {
+        "lowest": "€238",
+        "extracted_lowest": 238,
+        "extracted_before_taxes_fees": 238
+      },
+      "total_rate": {
+        "lowest": "€1,188",
+        "extracted_lowest": 1188,
+        "extracted_before_taxes_fees": 1188
+      },
+      "prices": [
+        {
+          "source": "Vrbo.com",
+          "rate_per_night": {
+            "lowest": "€238",
+            "extracted_lowest": 238
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/QFCieNsMqyZ_eVgTpCgnWkITqyP9599m4HCZ3ht0xqgYdN9NbdmNkqAqHWd_pv7762E2o-NOztKLC43oOvnTcKDfFIUpqElgq0WHpGVa_2RVFi_wUdik3j0VkXbdBHZFF9DUkFpVK7zQpeHOus26YyLcfZJsZg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/aYNzKP6DOeg7BzQ--xDzKZ6whZDzob4uw00surnEMNl1LBg1SV1iP3EmUNDs3QPHr9_BxA6EALadTn76Ur3zBHFcgaYHig2ZJyLe7mxo41tO5O7wSjRDD4C-J4VSxFzP9gk4gWp_EYdrTtdtKYu3A7lj9Uf-Uw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/SH1F1gUJy25lhNAFTRbgjSk4OFskwVbUxJgq1IonDN9YfHcW0JbTYFAOAUn4EKh6DL_0_iNHHsEzkSfCCdi5S-o-oYPGJ0uI_p-YQc_r8NrayShPv49_3Te4k3jwzJzT_FtauXRVvzpxafHCjBo8DjrF_x1Fjw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/577mBRinkVNtPcOYH2RZbVKC8lrXY4mdSXrRttvFG2Yg_LKldDXz_9IknNozKGm6d11tOYQ1rBALjzMwfCMd3DEr8ZU4Dp0iXNV6AV-BkJ9pouMG3iV89LEo895s0zFiwKRSfPEOJ_En4Ipk_2KaKqJXvtRU-o0=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/dEBFVKaaNsT293zsamzh8MYs0fjyvGcI13-t2ic2qaCSyi0_sQAvIVa56diHX8luah-INYQgBYLK9TzmY7z5g2HIHl10PfKydCQFyQwn46tKZvmPVY0NwfwbZ9DEYLcgDFIoJyV2VigAoZ7KIW9WHvPglb7c-cE=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/ZIwzNRu8q3uCGuN5ZC-umWfUX3pqArrjfjIqtgiNquVs9yTxhjb7CUOkb0d6fBA6lGH87X7U24cEoS8EUOcUr5dRbnZrH8w-qN-bGmrH2oaPTM_4xQWwXfNNQlXR_4oBnsN0h0dbALJhmiW2azRSa3PqLkTJJNE=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/wYOCmHHcXipesYbNcOu7cv1eUhPmYCKml6B6G2xwtYVViDflFcWVzBGfTo-9O4MwIvOzJdd3t-qRI-dHXPQ3agFr0XDkWnGlttmVHDD9erwH0mhICc7ALcwoCindsiEyBh18I3eLDtCCiYRMDCRnVbyUowFk1Q=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/gJlvPCRokixCjwi8hrVYrSWAKdXv1dOAre_BD4VD47yk82-EgLlAy73gjim-q8Pn2gcpH3shy5ypwCqjd136iRcm9By5WNBUH181hWG9IobQ48WLzbj-mqq2NbzlrfYCjMZPcg6Z34bHNzmU_ly9ihksz-1GZI4=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/C8cVh4qr68P53knd2Jy0yLB1SJt1sMHa1amCQ8T2hf7WSbrihzEMxcd8DqVSg5kX8aBH9pLMWLPP0ltIJ_ny7ZK577VER2Jk2I7Ey46jzKvo8aUpj7KW5DgRE01S_g6-hweutLRk6kLVdHPAAsk5XUS_Vgrxmps=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Crib",
+        "Heating",
+        "Ironing board",
+        "Kitchen",
+        "Microwave",
+        "Oven stove",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Charming Villa, Ischia, Punta Caruso, Forio, n.2",
+      "description": "",
+      "link": "",
+      "extracted_hotel_class": 0,
+      "overall_rating": 0,
+      "reviews": 0,
+      "type": "vacation rental",
+      "rate_per_night": {
+        "lowest": "€289",
+        "extracted_lowest": 289,
+        "extracted_before_taxes_fees": 289
+      },
+      "total_rate": {
+        "lowest": "€1,444",
+        "extracted_lowest": 1444,
+        "extracted_before_taxes_fees": 1444
+      },
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "rate_per_night": {
+            "lowest": "€289",
+            "extracted_lowest": 289
+          }
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/FF536e6F0Z-CsC45cph7U8ZecMmo3QPHfjTnjYnstUwf8eX6CDQG2vsFVbA84fKld23CCcQURk1ALWt1qqB_zhFyD1zUfduBmCOUtUg648KUOGoGfxykF5-0Y4rbahBF2_aW4WWsNykB8Apihey_FIP1rJAHqpM=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/53fYJU0amFqURzTasanTYgZzQ0-6Gg-Id93uMQ1AUytRMD2WvqnKzdnHr_XblruP8HVXXuwPvQ1MzncfZMqwnVmVdLEzAZayS2f1be1_f3XQjxWu4TI_d0Bku0fs1BirsvSTI_bfbsULfoC3qqu75-nQkjKyjw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/VvPIOHVtKc71qNOu1WEmRrJ16QVZ1o_uMFtNBeAKJiQqZhe0vlQ1lpFSqC8CrPis2QsLONtMTAEzslkYuUMky3T4sj7HYUlZ8bJ7hhw3077nYhzCzDEaqKuO4vG9myAWouqgEm_RUKlmFvUePPDQMX6sw9j47Q=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/sBW3A2MM78D_rXuTTdFWo5l92jO2MDsvGYHpweTxmA5ES3SQUCgsBlVOOx2VADgZQfdgWEKQX0r5jifn7CAN7E3rjfTugb94WaB1QB4RqAlT9VkWGrFNLqGgrVZvWtn-oai-23876pQRV1Cc43yhh3k6955bjuw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/EE4Dvf8VBVntK5kBi8_psmGLbPJouNFaFQuG3Ua2N04Ad50_m1f6_mRyZXnJG_z9Y3n_F_HKp_8hQFNpUZgEENp_ttS87iPO0nnj3MhrJc1U9vjS9orjc-n8uuOuYShM5b9A8Tr2bo8lXHEMv1om1l4uxTl-hA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/eBz-o04ZYZp7Whf3k2pQxZBuMEvpEozVGORmcBbdlRPuSQl4kJnA1Nmfx1KmHhFyg-lfl0V3zZtQKYymB2nNnWZ9QMEQl2bOUcQaDv2YE6t-dJ1fS08qAJwW6tsBYRRI5MKSG8qSYNwB7E22iCBzJ6whsWk5X9g=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/12S2pxQKS_Xjr4Yw5w2-FR7hom1RS22WeMacfhuMglXhrYMW76t8_-ocV57mezz-BdwTNIVHwpZWPbiY9b0QbBPq0BQ5-vE65hGBfuGOwe7bj4uKGUipfumbh7db2leUDcdbanirAlT12C6U7j4EKAJuWVo9PA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/Bc5LKRh4j9WYvJAZd0pjeN2CkjFflah6UPQzhGEoxKiFHYqiH9x7wyqU-h7mmSJjV0K8bNtNWdfyIZnBw6bkq5hF4GKuHZ_iBFGr-_WhdUvHDou3CYuX4AmKoGLC_roTfpboexSpyv_FjDSmlY17p5RkRIsuLuw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/nUk8q_nWXje-R5tYX3XRhfyim-t6whpuea8Vp4ZuHWBPwN7Tb-WsT5diSIMlECQXfJq7TX55wVIoIsFlOSuRKpH8s_uJPeuj2Cnj2uT6XE4l6UwqDFDsdH8uC5bMDsXUgjDq5MQXEYAq4kxS-KCTxnE3aGqTbg=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Crib",
+        "Heating",
+        "Ironing board",
+        "Kitchen",
+        "Microwave",
+        "Oven stove",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Rivamare",
+      "description": "Relaxed rooms in a low-key hotel featuring direct beach access, plus a bar & free breakfast.",
+      "link": "http://www.rivamareischia.it/",
+      "extracted_hotel_class": 3,
+      "overall_rating": 4.5,
+      "reviews": 198,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€110",
+        "extracted_lowest": 110,
+        "extracted_before_taxes_fees": 100
+      },
+      "total_rate": {
+        "lowest": "€549",
+        "extracted_lowest": 549,
+        "extracted_before_taxes_fees": 499
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmIwxstjMjNnvO-ZzWcMCwUyf0bj-nCB19IJOnQ2bNO9vIMGKva-spOYhHpyrqO5g4wMdwgwozmzl3T7PCNd8CHSN3ej09ofO8l7f3rapfCR_Dgp-QHpXwJe5y2QERHMNPIyqh=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2KrNMYgP0SGiaVlbiafTNJZho46QLhnZVqmciR9nCQVoMi6B7e7bMolNhjoFdkFwhr-CuRA3xIIoMSn2I7_M9_2C6nZ7o1T0X5_QYjIN5qovkeJvbIyUT-Rajy4g1YC73AXz6NQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUA3QEx-H29QE9ntNzMi5JpoZKClYm0337MltadSGsL3i5xe8gCRao12iQ7__-MzrmdIj19UrFYdwf-cM4f28Ca7gHV3kpaVqqFBeef7Jmfs_3Err1xoqoglGyhtTkBRTUYv6MJA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVPtS7uK0x5ZPwGy18Q9LKRMP3cIv1jbGbLec32ed01Jw42_lz0deb6IXCSjekKYkRNfkT2aS2-EeItdWM_8l6znv6ZnVbvZl_o4lL1DoWC0fyN4JMwE0c9KHiIL9pyZtU0dVNaA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1yXP4WPHIXlIT47TxNkJKsx8ZhCBceO3U6G0qnoIS3kkR2tup-e8jTF39kX7bRFloK2n8dhJLtjf7JZaBUlPoyCneqMxOBwY770EHCUu0LJTqkQETn-GKRM4xh7GMmbCzJ_AF=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/Jnc9Ekszv1gH0XPV9SDQicEqilLOeWtAps6JYwIpiwYP4wgqIbuaIt4AJdX6QmJsj6ncex7eoe54IVQoZlbfaNznMFFpOlGFJ2hqVviKEq4ZJSB0U5vIk5F_X9MupByyDcb3KwSvnyinIB4jQ70vaT5dLBj7kQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/gjlOpsXJtsA87hIYXv_osay_EWhklrnNBTDLsT6FD7xvB1kJ4T_fAIlJhrHj7nmw4DWlvH5ZsXFTaYSNdpb1mp8w7uShgOnoOk8pWWtXttMY2-3G0o0XTuPGnJKvLEZcYX5IHLCm4WzwJJvGEuHlxf2cntCcmUs=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/2mC_KpcTiWnvOayA5KJKddjVK57vM71Bbj9rM7ui5GAxdYVrNEszI2uXUdjfJm_gIj3Tb3r7sngwiIF-7kmB-8MOVKfY3wHViLEElwQnpnOsh2bQ0PtT1mlF4I9PcvD-KCt5OVy5H-bGZShygPioK5wjBkfivA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/JtMW7qxWxB35tjONuPGsGwfO1tEe5oJpVkQ1XCl6CBM-Qzy8TEYp0CVA1bJcl497eB1lHdduxjc1o_Z9rCR1lfR49tJCYh2gzNXJlAaQ0rVVrJNuLu4OH3x-CpR1jcV4qYUbLKSSyGvuPafxL2Mwtu55W618ZuE=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Accessible",
+        "Kid-friendly"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Villa Maria Sant'Angelo d'Ischia",
+      "description": "Modest rooms in a casual, seasonal hotel with sea views, an open-air restaurant & free breakfast.",
+      "link": "https://www.villamariasantangelo.it/",
+      "extracted_hotel_class": 3,
+      "overall_rating": 4.8,
+      "reviews": 156,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€172",
+        "extracted_lowest": 172,
+        "extracted_before_taxes_fees": 157
+      },
+      "total_rate": {
+        "lowest": "€861",
+        "extracted_lowest": 861,
+        "extracted_before_taxes_fees": 783
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYxvkbIHRyvEvthvWec7cNm4EILrynaiSyJNPP8RlxLtg3rzg7jwVHhtn_XrW3s-eEP_ttz8Oo_gVj3WX1teVpTE5z_IliM9PPyTtZ_ygiyzfczgiXZ_rp5qFg9BQfkdZDRMo6=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjumIDw1xJA7oG9NnSdJRZHE4Bpjg7LF7fKEHlxIqMFtfMBgokoeg11KzLHiZM8IZ7D3cHgMRejktC24py1_YOqR1EgDF7L4eRJGOSpw7hRX7cV5qZiIlavW5T5vwPk_yEaczk=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/69UQfAv4WVR1kzepetVi66JMV-WsIKsF55E55S7VgVnttwVM5PugjUNR4jx5jdWdAaWbhEY1KvyDfiImvKY-xn_dwMl15V9uU4Yfe2bUoFaTHwLq-3JGpT9dasuOlM6_RSjIXUK0x31YyZjXtD6adJLZH4ebtw4=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/KgsLxaieRI2JpSdCaQNuiFVoSKsfQA_hOXPLKZUnDXV2U5ldqv31hHzwybnGHw_5dAQURzRS54At3HIs7V-YZez3daWdjtW02JFfSehdEPSCWKA-X9LeXay7jfayko7yO9kbAzadAVUg0Gv4k8Fixmqv1mwHNQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/YA4AMk43JXPZQfqGJBMIyTdvEzFqhi2M8S67HUFijju3XCCAbzU07cUWK_ViXnYw0EF7Phv8T8huN1lt-I4GLPi3ju6SDsl36Y47AeYUlH6q8NQMbmXZDWKXlh0SBomYKeuj0P_DGm7lGhum6LIgL4T7jhb2rg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/DFA9_dW6I0qImv9KEMY3W4HsYSGa4s5SjxsbKp1GuS3SWDUqLtwNNXq5kBzkcbSsK_jv11gcC4fN4ldp3ZUzpTVn4IKo01AdsZpHtYhPqJQiJBNVpaPNoKkc0BIKMO5eIBVSAB4jk9jrNt2hMkkMzfCjXV5G74w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/r57due_yCYlJeZj34ppNz3C1hHl7SCBmNYghDpiXGqa5EhyVRkIlsLut3VLlfHo1jK9bLdZ3yTKgOgaFMWHTLm-rtdt63qMTXjFNhmjVzFGd3KNPcmd4FX2zSjHrJPaCU7ZObGyq-8rhlOhmXDBoPfweDiOeUw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/OMRGxkWZXlgERJTAwQnwi_Z9DSuRziCh5tuJNvIZR9g2d1T8HC05xKRsmxNDQOgrvFf2mHmZ5Jx4Nq0DRaTXylefOqUhMxfPSF4jHb6T_-y7RgWjWp0rDkxh9jXOK_SkorPuDHkV8hDv1Tl17n_yHpzJE3PiYQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGupCy_Ud_QJN-2TzEKfBOGyi_EhDafhc4D4IyY9sYPuZk6oZqxGWy5nW_eiUI1hB3ug0iX51PL_9DwNg5HIv7D1EwCGRrVt-a546iLsQKVuz9oMLR4GHP7orljD40Q5BsDwDYW=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Pet-friendly",
+        "Bar",
+        "Restaurant",
+        "Airport shuttle",
+        "Kid-friendly"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Sunset",
+      "description": "",
+      "link": "http://www.royalsunsetischia.it/",
+      "extracted_hotel_class": 3,
+      "overall_rating": 4.5,
+      "reviews": 227,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€178",
+        "extracted_lowest": 178,
+        "extracted_before_taxes_fees": 162
+      },
+      "total_rate": {
+        "lowest": "€890",
+        "extracted_lowest": 890,
+        "extracted_before_taxes_fees": 812
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwYZCdporfjH764wYoJskUCdGnmAuSamLT1L1EM62lrLiq_JJi8Zfg6pITwnfCwGYuQJ-Ig_ImdKMnF4vmS4kH47OID2MH28QFXtdZP46HqsBYmOzkfTlgz9XRgLWSvt8Xl5ssSg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0Y87tI3_GaOAXkf-V5tidUsvLetxYfacPBy2wiMB-HqjKJX6ugAOLLh1AaQAutMtmD76zm1hYvholYdVWP4afBaQZGUCGIobNzwp30iDLVYTosE68BtMqeMu7E-z2PXq__MLleQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtqek-iPkhHjGGnrBra4vJL7gfTT0rT8G1UZqk6QtsOtnhzamUDRqgwmwcJlWxyJAa3bshk2C-l3CKV3SfapC51CxYt2g7zHlWSmVZ99n3BZLZxzAVQghOHcOuTX1y8cnVZPvy=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrev_69E23bTkLtduJ96Dc8vR9rbNZ4QvGgpRJ6SJir96JnMxfdyT85OPW41-lr4RkYcEyeKoymED_gcTBJK0MP5dv8jT9g5QFe2KCwpM7oqFXP2w4n0IUhnvtQwebRFs0HwqM3HoUpQ4=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHR18wstzIg-fVzxsdRiaE678RQDnnvzeh45Rlpv1LvfA6pDEaKFSgldHji3UuDRFwPK5sT5uDSz8XOfabC_c3ZnAcBwiGnnt2Bh0TxxMvXuJky7lPXMkHLbE9mdyvq86G4Rj8=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhPkTbUg61ymuFTC8SIo5duC5tSrZH7sPax04O9yCMQG5ujqVq0cS6mBXQdCnitotYRBTdFwK7zs0nG5pJ-ttOngE2CS2HIOZ0390x6itVqgWe3Ct9dBhkOLLQCt5s3Og1BB3R=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfEjqbpho-Xna5PsMbzgfwNhF3UehcWHAawDLm5JxUe0qh_syDUkIzh3LRz8Oe9uxJI4ostql6QGEcRCD6J4aBfF642qecxXcQGwPo3BUz74WU5H7W0cuEkMz2NFNVVLGIGhA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_ujfyWssWJZAlf9b1g0tvae-6r_U_eNBrIz4wu-ulxzeixLuVpdqFIJ39nqyw0ILM335M7JGc4BBNTjZNa_362qvBkawZcEjwHtG2cdc8f54pVAEFl99jt9nTGwnJIjA1jVNH9w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/SKjAwLrv3EVTg3Zyqv5YW9rY7kL-D0PJ98NxwjWtI3DdzW_W1n7nDDINcoHXteICiips6JJOwTzwMBNBDAXhSLekB3vhr1lJTut5OZQefgqyCrWmeXOlAq69CMwie7jY3nDbZydewRdDDds1dMOEYyV6iMjSyTI=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Parking",
+        "Pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Spa",
+        "Restaurant",
+        "Airport shuttle",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Torre Sant'Angelo",
+      "description": "Bright rooms & apartments in a villa-style lodging offering a sea-view outdoor pool & a restaurant.",
+      "link": "https://www.torresantangelo.com/",
+      "extracted_hotel_class": 3,
+      "overall_rating": 4.8,
+      "reviews": 998,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€198",
+        "extracted_lowest": 198,
+        "extracted_before_taxes_fees": 180
+      },
+      "total_rate": {
+        "lowest": "€988",
+        "extracted_lowest": 988,
+        "extracted_before_taxes_fees": 900
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLl6KH31pH8U7yqIclTPxgwF4GerklbnhB5XiQb4IISkL7BPqgEjkOUXy25HtTZkZ9DWLZAcjsjqWddEOquiQRpfWwVJVYLBbQZ0ALsq-mOtIRgNImGtfsacrwUVUP08FNMmwwdvl_gYYO=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpLZsf8Ib3-Sw3TF3YpysRyxjYkYrO1PKUfpiXDtOgB-jeo4xsRvQatMqPioGcbojrK_ielwi0xEQThB88IisBKXsNw7WXJtQyypEtuc_wc9Q_D1BuOb9R8TSArzPF8sjknyKpsIBt1deH=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3f5m4TvZVGjrA9Qy3Y5uXayACbkRw25HAPmIZPcwofKShf7EAjxHN9Es7_4xcdI8Ye2TJHx5gCg3qVVUQi17BQyj6Zaf0hbQTMPnwAHar6uOpOhTXhGIj5GxaBu-tEQ-y-AoV4rhEwVZR=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-byeo7ybhV_-Lbr7-YMmeAVCA-eItFtSpoq0_WEuMOWmkiEXk4fSsVCc5Pt4t9IM3xrFGrA267Y1_F-5F7m-S-ZiHsSGOn51lzTLUC6rz4aHM3NU6SblZUASfbn1pIymSBler=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxrhEWR1RzfGVGxwWiEUJGCksGMy8gbq7gn2H9UH8tRcgdnZmxMnS7wwtV2IdzfgDqBLe6jV-C001Mz42_8eFZGoQqJqQAURGgz0yT_PR4R5-fOCGycguwNXR755yz8aVMCNP4t3PSdms=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkZ5MFiqYgqYm_Sm0_QoKbu6eQmeRc0na-ExhiCb4-BzDlZcAXVrm2er-cgxOLrhXrZpR9J5VYSCKdQbdpOD5JPUvtJWLUlD2R4nljjIWubW-PyQB5NOAK8krMwm3blXpGgfEyxSjZATjV=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-Fqq6zHDU6yiHlAlfpomSlWt178M6CJqC7jWRZM6JhvLpGsbBhB-2jq42CXYL4inKI_At0NRqf3FQnikgm_n3UQv560juGMdHwL09k2JKIH_lqxwUZoFIJmHjsojMPtaDdg6vNOc_tW5f=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuB1uRZ9RfQVuVQWEMDANctARdvT5D-tQul3N6j5OUWZpANC9KieAf5CHTAWTr2WU6r3NyW--bKU_hXkskA5bGlGcHX0euDWhkte9hyxFcRGEAkC44IniNe6H2DfQHooyOo7Qpk2_r9no-=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFZd2nC1jug6CQMlkXx2ZTnFanzHdVhgtc20gyB2hG4aOEYhwTpZzpB9bd9JDU_QnhtW1aSzyG-jo2dpbJJxwuIjOwy9IwPLagCtucPzBE_v1m1D2OdIIpYU0sJ4_ikNPAdsxHUgJVfgM=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "B&B Villa Antica",
+      "description": "",
+      "link": "http://www.villanticaischia.com/",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.8,
+      "reviews": 71,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€162",
+        "extracted_lowest": 162,
+        "extracted_before_taxes_fees": 141
+      },
+      "total_rate": {
+        "lowest": "€810",
+        "extracted_lowest": 810,
+        "extracted_before_taxes_fees": 704
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrDZWZaXT63cYxn1-5XmJMwDUapUKkZe_5znWubTv7bv4PeuoVOz8EKMTPmXeqt8_X-Kyl5tCJxjXHpOHZB91AL1yynznGqr77w1d-p-Nhje2pcSfifcmTTtAMZIxK3w-AJ7Rkig=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLjBl435HMcUz9ZGEV5J0yAK9u0iYyh3iLr2U4zvjt448bwWdGuiuGZlUVu5U75j9PxOQsNTujx3QTcQVgKuv2xbLAGseAsr-NEL-qCjSPzxViOvYpyn_YKqhAeqsoI8WREycd0w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3erXYxqiC6ibouY9UH1aBq1cCljsx05Xae_nR3XI6pIj48-w236QdkofuYdGLFSxUdVVDAt1dQxWVlqtv1OueuSSIZu13bweLk8zml8qRN6uO2cdFJd0s35Tb9Ikm4YASThOX=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwVEIzvNfLBqYG3BWiXiDsIn7UrPb6qipHvJTVNxbt6tqoETFpzotj8dBQb_dQWm23kDV-AkwWtrp-qPiVl4qv7UR6BsX3WQUUcYlmOvKY_F9Qw-b28KTY0dQeZsHdbErCSaG96g=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIpMp7PeM9AUF0Ggm8CsiPdhgxV5FEoIXDu6QtCImwEXZYKgMx3_07WuiPvfGQJh-k-G3eXv2H8LfYQWHxj1b-mHeOGiSQ_rn3fs5c9ORapZdAh1O_mkJjF_SvqLAZZ5OCnkEy0A=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoSYbn6DyEvwUvr6Ko-alf4DEzgIJTcrAANNH0Xrcss4wZfUCfK0OPbcNxTfqeaybSW68bHPLz5wdGrJP_8032v4P7j4k3JX74dDp8BTtb4_HMKQLYC2CTNvnYb79gQNMzwRIL=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5yedGChZiuWS6ulXLVdXZZvvWMbSfYY3yzDTsH-fedCvpei7ViL1aoqm3wFtxBJqBVu5SdoRiCHbwkucI09WxI92S6D1BKyUsT6h02YVz24D7ALN3H84F8q8bkkQ3O03ZPIbG=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/1X_7lyyxa4kuzFqdUQ0SbEd0ZQ5KUKmhZvmpdu4So46ptc8Ph7GJmDyfXFT90g9jJd6Iu0AIktgvBRJVs56UOYEE6h-a3QQUsQbtRtGQmggJAkooJol2bB9-1p3p5r8p3xF4lOHQUAS8_Aq-HxrD67Z2fSloXg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/yBdH3HF-CwaFTXZkJrh7I-9l3ZiUaPuWYP4-GxzTQM1XkWuyjXSY1RpAvoyVnupUdhE-fivISypd5R61nloMrUBwEgMughEtZoUaCegflhR5KFEeqn3l0PupUsDirWBf56E7PS4COmv3oRMVtS_4uFeneL7eIA=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Room service",
+        "Full-service laundry",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Bed & Breakfast Villa Lieta Ischia",
+      "description": "Genteel rooms & a suite in a laid-back B&B featuring a seasonal sea-view terrace.",
+      "link": "http://www.villalieta.it/",
+      "extracted_hotel_class": 3,
+      "overall_rating": 4.9,
+      "reviews": 138,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€231",
+        "extracted_lowest": 231,
+        "extracted_before_taxes_fees": 203
+      },
+      "total_rate": {
+        "lowest": "€1,154",
+        "extracted_lowest": 1154,
+        "extracted_before_taxes_fees": 1013
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/t88vfoq2ygZ3lQVuXemQN9kn8MjZip8SFiYArA9PlHlJKnZhY74ynHMjZG4KciN0UCYHokCuffWAcbMdOHzb_5ZImWt6E7rEo4R_dVvrSkigj-vkPY4MKHcByHNs0ON2pQHv8pmDIdqm10q0CDSu2VhaPEY03HI=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/K2KraPktgFVt8rtZL9zeu_3cnDK3iHM5R9XqXJLbcZ_3olihpzuIKvIDGYS6koMeHQiws8TlJAi6zLW0JlxhhKx1sCOF_kCdD8Z3EKCfqKkD0IF6euKv1cjZT5jHP8QE55xewvQDI5ASL9PcZBt88y_5WnGe6w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfck7TnnH9D8AbmixY5FFo1faoWVzJhQFkI6EeDcMNVKyOwFGjbYkAiH0ydWW5DlS047mVA6oiyV_ZSUzozJ0u1kep-wVPQR8PLFbQO-rJVFCFd9aOUT2j9O8h-rWyk5IS-EFVVQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/2ezirnwRElCWaTG0T-YduJHGYjWkveecqEJkSwPmt_gc1rtGdGkP2qHZWNho8cembSroo1eGWeHF_1_6i4HoW2Wofowc0asj3F3iMkP-3zuSpQaQUNDwqliENVDKR9z5N7QfTlBb3f1PmTcFtjzXyH7MkGTMEqU=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/JIFX_GInQOhZOa2iiDh3RbA3ErV0lL-1uFWLoTOiKAu4UYVOVT9z2X4f9FdsNmrHMXD_mFdO2vIaimkkF6sg9tAMi4lE6MtlBRpj6oKLuGs1nYFuFKaDX-pHmZ5cBnqu0FCdDLXBUQA7_71nquHRbgbhQeGp0Ww=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMSgFAT0oxYcTmk4qeV2rzcAGFWoRf_5TQko5Qq4Gl4WVgP47aFz_71ZxBJJcrO9B5zKot4Di0fxth_dLzi56NktozmydbNscKVM00U5XVNj0m6aDDEFqLfAmOSS4gTUIlJBSTSQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJMgDydbvMB6V0YAYkcmKo3eCOkwDWHbDbzajhEdnJW0-XjZfkUbh22qjdzR_AE9EK7eL3_kd0HGiUhIV5mxBlx8Wc6AHFaSyCSBVZmo18PIlYXzDTQ4jBPN70wMsd-UbjmtLQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbx9pINoWgiE8TzSNw9TSKdZs85RlagbxLuyqdIHLgl466KY67DqmIioRiMmQubsu0ID2gXWEPzovHqx3nuv8YrS2jCjd_hrFr8-shCvmTA9j0HRV9egA33hc5MO_FtFONKWo=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxZNrfXIqrstw-wwrv03iXyOWZunbOSy0D2_0-_ITopoAhz30NgdmmhxTTzdMle7J2MtMT8o1P4qvuhKgPmoR-OABok33AMKMYrK39L4-o8wNjnmYg3OeHbdWuW3k1rBsp0zvSzA=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Beach access",
+        "Restaurant",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Palazzo Manzi Terme & Spa",
+      "description": "Sophisticated option with ornate decor, offering free breakfast, plus 2 pools, a spa & a gym.",
+      "link": "https://www.palazzomanzi.com/",
+      "extracted_hotel_class": 5,
+      "overall_rating": 4.7,
+      "reviews": 380,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€305",
+        "extracted_lowest": 305,
+        "extracted_before_taxes_fees": 278
+      },
+      "total_rate": {
+        "lowest": "€1,525",
+        "extracted_lowest": 1525,
+        "extracted_before_taxes_fees": 1391
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtg5eTMGCn1QSpxnMiniVDW8MvtTgrG9e_aMT_RyvTj7PsS4JdjDCKmtzGaZCSpnQncU3ymtzB9wvtt2y2WpVhjD73q-vxx0ClPkuqQGHKpEEXsLfMhnp49KtYRIlod2PaxBVVFA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/YQYHiEoLJDQSMoxxJqi__DL-lBnZ777_Fbn5iD6OfLySIa8Ers8a-BpVLnc8uw1jI8jOSYj9Xx8BYjCy7PPZVd9D0seiyIEU-tcqEPQ2Kx8Al5Vr9WVYQ3myiqoWO5yuRp6S8L1xaf6MP4_-uHIvDLNQz2svcRQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHO8QY2mVbUh2C9xIy8XURNdNvZjpe2EPVTUnrM84eOpaYbjvicy8KrTZErYZmAE0dkyXE6NT4BR0wsphnPu1J0Ut21PXL0eUnMMkurJl9qDfHJ0Kr2tV2lp0jVlZtHoSHibvryDQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/9l6urMZF7-Qq4Ood4Y-r40U-zs8UKYW1-QCai5iZhTgeGmZlHkfY7XwzMslJM8MswUkq5of7oKcwIFAXJwLE0J8SMrrhNG1kcFyYJJ4I5H0xP1KoWnitG6z0qcalVkjmWCIEpPIOX0wdcGLE8VsPX1NdLp3gF9o=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBIPsyNi8l_ZNXlo4ilmZlwg9ChR42aDZMEOGngywyprJzX2Q3TOQda8ChW-bOoNONNq8CDHoZjgAsRA_tTrLMXe_lKMyGumeUQJBp1QZS1jcmeUNdow9LFszH86OPpo6nsbHK=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/lHoSpJMCplfC0t5c1bs7Td5Ih9-R2m3vBE2XJ8t0gRnTep39jCtbSjB7uYaTo1gijszIB6fU0OT2L9HjQrvSjJAEHWPip7ll7nk2J_dtgMzBMUiQ983-ZrLx4REP0glUsisT0PbiioUMNnjw41ngNUIRUOr0eWE=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/GmyY58qtNKw6DkvZPOoO8NkPiiXdNQJ6UtUulsBlPoS6EoCn40cdEOHfabU3kq3pU_2cA9fD4q1L0-IunpZQrn90srxfKQpmDOjWxaZUNvNQh7m2rc29VwW0vlmPKwyGwjmJeLyoeUnrdAO1D-vVbF-ij6uHJZQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/Ws8Oc3GRUQHZXt6B5LmWunlfI3CRY_-ChmCqHLUhXkhuASXnlcRHjcse5RlYU2FoYtngQGsljgbxosuWt9o30cVVAthf0JZPhzBuAePop9fjOmD7rLS1OjcPKca8fypLZnN_1QWSs1W2yvjZMkeKeIlVOH99bqw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/su44JOwmKZDS9oW5JmuiVcoqQ3t0ghwBwHWJhHIbzMxD-fB_FR46QEXCXI9_tlp-nouod194NWsFFQh36Fp43i27389EQVD1HG6iooGQ1iQIvKoyT7fDyh-MRi9FZgsD-rQovr-uJXgBdnQ6YKxyJwcsBw3-Yw=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Romantica Resort & Spa",
+      "description": "Sleek resort offering spa treatments, 10 geothermal pools & 4 restaurants, plus walking tours.",
+      "link": "http://www.borgoromantica.it/",
+      "extracted_hotel_class": 4,
+      "overall_rating": 4.5,
+      "reviews": 715,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€196",
+        "extracted_lowest": 196,
+        "extracted_before_taxes_fees": 179
+      },
+      "total_rate": {
+        "lowest": "€979",
+        "extracted_lowest": 979,
+        "extracted_before_taxes_fees": 893
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFP1Ju1jN32Os9rYUyPLzOT2UfDczVpUaSMHevmj2VLesPjxh4TqiZ995zR8Ko9ickoe1iiIPsdVz5o3gP7g5GuUjx1LxBL4nyMFvyZMTpG0FEZ8bntZWG2nNKbhinh6eni3QY4gA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHe2cSIfALaM3-0Pkv--ly-TVbE4D4LGR0ut5W2vNhyUGqC_3RQEBFPHwPL_BqW1pAIqrM4ZdzdzoUZz0WjAGthZT5LsXXMAMuxwT2jBEqCn29fFrQIVdb-cS7waPNnsO4ziS1W=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/T_Rng-8xdv4n6UnlS0XZSZbzHztif0Prkfbxcr8R26N9qVjYn7QF43ux9XhAAZb0Sjc43Ex146_Y7-10_iLVHUxThznGTiDFtdHs_4wGmJ4MtYCXV2zBHfqvsupcdhJ_i00ksRjJmem4kAXisAZAZ9FVrt-aYw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/RSnt_lMjkIFC7HUoCHAR87xRIraViQ6w04o6vyGQtwGFP_WSo78549QLdfAs-If9tSss7-ofHGW2cuyXNQILaM6BiVgoi7c2Q_BfTYC4YldhVHzZ7xSbbrSDiTFGXNUILLimfdVaLKkt3BGx3Sf-tIhcP0fclro=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyAvATf_P-UtuEFWlVU4gFqAzvYXyaWpSqdtNBLchwXAktHIek712-naLoFrZkrDIgJTuYrojhgx9mepY8xGjwwjZ-Bbnn___qDZG_GFot2preif0io_5w-CcddiulKyN_ARx9=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0UBR24ozUAkMXJbN9klxZm18QqfNGwgOgMUp6VAmBn2re-PL-FgSxLzbyPXaxPw_j8rKNaqFOBjo6p-Wn2ileB1xB5vV4lErKDbwrXHdU_r535K_D_Wk5W-f4WCGOpODB4mEePA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/_Z0lmLLhxupXCV2yxHnpn3ZJLDEQUjSoBtCWzUibVurMoXp2SFgRcfrZZz1NKYuVtk26h3St-aas85Tl1nL1M6C_LaOkiYWDVWEy37HQvINpoFQknor8ueZUEPwdSiQ5NnlYyAglQ111jPeUbqBohQs3m8DCK7M=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxTbTqF65Sg-n3DUqb3uz1hL9wn46Df61zy-KJlR63YVLGQxCrk521C7ZebYyOG9xixLRWlVWItyCOnWzlaeLuGGDHAIwq9gV2IydQfCo__7l-F1RFHrCcGI1HK875vz7L6npr=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/YIOMxXzuUlNWP3-2mluPLLR-Z6F9AiFoAZviAklfah9XBU7bJI53fN2PyUuV1c1FXak9hsvqM2fjPzNiXU75kq1jT9LJI66wH3F3C7qPv2EPkhNYYWs08XO8oFtabp8711qeHFyNhWq2NThNa3K9kufnA3vi0hU=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Don Felipe",
+      "description": "Low-key rooms in a casual sea-view property offering a cozy restaurant & an outdoor pool.",
+      "link": "https://www.hoteldonfelipe.it/",
+      "extracted_hotel_class": 3,
+      "overall_rating": 4.5,
+      "reviews": 257,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€192",
+        "extracted_lowest": 192,
+        "extracted_before_taxes_fees": 175
+      },
+      "total_rate": {
+        "lowest": "€960",
+        "extracted_lowest": 960,
+        "extracted_before_taxes_fees": 876
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSK2pg57EXJYnLNXMI5OWKL1JdmvCpeEd_bigBFTrx_yhotdMLvd2lQW3A9sN1hdN4ZKC-sT09fVFSXDnRed-IVgTqMP8Trx0036Qeibr2HXDTqwqXYe6BezuXgLwYs-ep6XE=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkZPw90bHTLXG2UUQm_SP0q6Zrwd2UMzcp1eycPnaSPBKFxrVC4XRBcY-8JIGAm-wVEpxZNr84ja12xAY4q5B7Mg1ZntkPzCd3aTFeJ5kuogYp2DGo8Vl0N64LI75avQ7e-Q7l=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNPtBmGLTK8pRg6zs_iVfPIZv5qHihZruEh6YhJDpQ_OqeHPmR1-C9IB2qFXa6nmF6cesnawmwFd9VPjVx_YwDpfWCLSoeLbveBbJoxofmhXyYaHsKkRziI51h7uW7skkBctsvXg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaxgrOWUasmh2RoXtkscq9RglsIipog42UFZDBJc2VZ-uJYJ5nnRWYwZPx7a_ThvvY_6FFdm_qiUO5U16Na7z3fSgFD6PCGqQyWBCQQPjvwIOozZc7y2PeuCtvZ7N3NItZR5M_Pw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAz57VOt8kWsPsIYGy6FdXp47i6XFGpLKI5QLkL1CP27NTBz12fFEybveleoERWDLwFcXPK4wM4XMtDEF5Zioly-KgQtp8zchhKP47LaojmoKJM1bGBPjRgxlijv08w6wIodq3Yg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/mVm1n-b84WxToWgEo28KBpUgQQqm6tfqynU-abpgqjMf6JIrH2Uf4IOxLTsUMXf6werWTJiJgcdAlFfmI7bJhd_8vmbnHiVgrdxCi6-QZBhzR44jvEzaXuWv6K4QdzgveYmyvXNxBaRF_4lEHEoLoYkllu20FA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/ipR-w7GNZQ8sEAzZL7Lsvy0KlbSC8BhYmn2k1OcdFLNtnfL4C2qfgjqWDLlpoMhCY1NIC7Jj1TM-BJ3tvj3EeWN9m12Q8yTKTc7twZ1ov1YNG39VVxvOQr2vA0MdyrXbBNXsrSd0LlZY8ZWKUBNEnjzVcWWLmw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHV8GKJtZWydo4i-eJTqBkbWtVBRgqVqyZXYBvFz5Vy4xA_q1_VJctrJ70Pw8wldgza8u8IArqj-B293dM5fTm4aGl7rs0G9i60oP5Y0Z5Ja_mJangDqnrGVqhP0Ptm95YFRVVk=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/jSxlyFHlqfYoKucbpSpW9lYTm6k6I2iC1iw9p5QBpGmeSMNYcaId_6zUxCQenbWqE2bxXN-VkN8VI3hL51Co5WJ25QBnPVLlDJatAsXwKlqdFKyC16Yc9BSJ6nj8w_C-DcRZNEO18MoPiUonloQvJcbk-m3Pp_Q=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Pet-friendly",
+        "Restaurant",
+        "Kid-friendly"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Botania Relais & Spa",
+      "description": "Bright quarters in a polished property offering free breakfast, plus lush gardens, 2 pools & a spa.",
+      "link": "https://www.botaniarelais.com/?utm_source=GB&utm_medium=organic",
+      "extracted_hotel_class": 5,
+      "overall_rating": 4.8,
+      "reviews": 350,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€534",
+        "extracted_lowest": 534,
+        "extracted_before_taxes_fees": 486
+      },
+      "total_rate": {
+        "lowest": "€2,670",
+        "extracted_lowest": 2670,
+        "extracted_before_taxes_fees": 2428
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/pzgzX_c9DSGhZS4VZe-9DgyMWOlELOQI8brMy4CVceJI4JAjue03c-XsV5DhBvvZY_7OcdNlSDO83vlvfV6EaxI5L6RJQBOp0OmXvIKwRI9FcwGTEqhMWIu9nr2htVDG3KzdLfL8MYJr3dQEfdtqXkuqseb7AQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETTSqPQgv6WnT1qlzPWttGgRow5CEK2oB1eML9KgiCiKsp_wC4NIKZFtp-RMytEdGceCNWSWrWzMG0Yv_bJ3-JgEL5efPDl7pK-udNXzKytg9duBoDwiUfa4xT0acEokSVvf-w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQ7dnyogOadNzh_YWd8p9bqgHP1QUQuNLaR0SmKfdI-JN5XbXPPwECJ0sowPPmk24YjxP0Rl8n8EfydsEuprglq8c5riP_789VSPItlMRwzrp_-Or6vEG6sSBYTYodeK4_16At=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9e1brSiMmDUkRYsFZ2X-5CRMGtav0yFdLf3FAkif_0wXOw75DJ40ZnJC5HkDM1wK36hpd9cjQ-hzeKneXIE2auEZB6pmmXGdtwy81hjwkBe5bzvTlirFugrJLTfSSbycm8o-_eA=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/gY5L54d7jcXlu3UjXxHYR7uBBwKVzeE771CicCtMrvLs_HRS5lcAIkbYb0getFuwhAmvsa2e8g8M_BOli5_6gdF0SN_Cn0-tdr6Frk6L1c-_kpuCcsUjm3xjkXv3c5WhmQlQeK99KAdVakDP8L4HvGx1IB3vhg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/cG5LeYiFsb5qb7ihITYfBzqUkT3JYEMojh_q526j2yC3Lu_aeifeh3IM90hNtApwmjW_FGCnYNaktr2RNzAnoATi19YGOcpIt2KdwNjVAejGnnlIg2_uMRA5FHwG1vx5tYrHcxn6mQDmuc-SGW_rZkqjRNrCtr0=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdn9Ifu4YnxTBdl0NQTa_eH64wFiz5PDt4AKwe2PO9X-gn-nqKJzpg4bB7NVA-8wr6SbAKtR8v1_qZ4tLcifooA3gjUnO6Mc-B_zLA99tLA8qpuyfgcFyiZD6cRA-GYORaAGNJ9w=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/XyStl-b6VDHQa-Tl7yQ0837JAtsdyvduKLNR613hqppOJcF-lrXJ5f1wMpSNj0ogemPwAs_ijmwmNToWWfByNQ2UdA0f7KF3mqJoNpYVdnpxKNflYR2cAfrbGeSj66VZfKKvjyLWUOFJqWLbT9WCmLaGWHAHjQ=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/wwc5oj78-D530RkT6-lcpbGfqNq1SrJzMMLOa23k0xe6kZewkur3A7fwVEc4eyIietlkDAJ12naaLqd0vvfAa4qetRbTk_mzwdWDumADcnHXPuaLxpfzagKQMQT50SLmn1CJuE9AZS_MbUJnbmde_pkflaZh_A=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Terme Providence",
+      "description": "Bright rooms with balconies, plus 2 pools, a restaurant, a poolside bar & a spa with a sauna.",
+      "link": "http://www.providence.it/",
+      "extracted_hotel_class": 4,
+      "overall_rating": 4.7,
+      "reviews": 391,
+      "type": "hotel",
+      "rate_per_night": {
+        "lowest": "€241",
+        "extracted_lowest": 241,
+        "extracted_before_taxes_fees": 219
+      },
+      "total_rate": {
+        "lowest": "€1,206",
+        "extracted_lowest": 1206,
+        "extracted_before_taxes_fees": 1096
+      },
+      "prices": null,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGt4XbtfjofDEexx0CoPjxahla5_1RV1LMQ-ESJbIxFDyMS1dXUcD0krfDetxoxTkYXpA1H_upMRkNLoMVorqKbqXzxT_5ahQuGqzWCq3RaxgZsJTGYOyCDyR3ukm-T9sBPbWu=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjAtEUVjXHqvMUPdQaxD-RYIImSRon8VRR-QV3k0vfmB0BwcP2T5i9cfRRylg90mnQxIhquR96YWOw1vNc03vlsx3MSqP7WvaeAnn8bYIXG1PzCJIIIVbYQAUFDjdWAnCJCQS8=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOMq874fKqw5J0cLocDOSAAxeroGVkWEzNvGdzidDIymCrSqDu-DcGg4MCiCRgxiAPm5giXQ-Fwd0q8k1X2SphvuG0zzU88cLZCyC_WfK-VZHYEzBDDWh7E1P8cDFv2hsxxas=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjNLJdB65FdL_HQ4U3omB1zAlJF5HH2g_QzF1dOFg2ArX74AVZpuaT80k7_AHeYPD2o2di8wsLf-mpfw65T7VT7yhShg-DTNpblxZD3zzc_2ZL9sDHzVFixTq5UBuGiiyvTvs=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/xYJnxHC4SF4HR5AeymJI6quOuFgE7KHNrjvbwi_6dZqhbtNHzRhvzKBpJoQWeM_EwTCejiUQ8OKQR1y_loR4cqHaVLKquQXu3WRRqt2NJyciTFy2fLiCevsOfgjB2pItzqCsII9LnSZq2SoMmAlO5BzCfQFwdg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFli7FCsZ3K7Noa0_x15ZM1dCYcUZi0uKNqY85emtFlQ1rpLN0PqOp9fHUSkm0fLvKriA-zwNeOApZ9KJYYEJJg5RKcWYY2Xdm-yUqMdkr51u86rQCJu7eYycoEDIBNb_LGjiy-=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9Bn-D4hMziCDTQD8MzewvYrTGrk-IayIEKf9xuX93BVX9qGmBhnWIKyDK1Si9gfX_9153CgAt5M3mLV_a7gV2X0rtFYgIVHxBf4ww4-8cS7JuuA93M_0oNMlyqvI8mDDnjvg=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxJ1PwTnXYDwC2TmJYPrTjxjp60GHOAxvhxgmAQOnkBGPgZHi-QnSoj8bI0Z0N6TgY-E2XLIquvg46hMlUcsqWBfQPZNuqtpb_NIKYBTUfCg9H5poiwu8PHq16GcLWY7hqmYBsUw=s287-w287-h192-n-k-no-v1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5xvQJQTl1-Q_PgY7auhd7RBcsqhr_jkBuRdDTpVvZ3ErE1f4YMwwudRLaSLtWmWhcjDCH4E6Oz9wriXOuNxdxqOKiJSZSZ6s2rKTKPdXP4hW00jtjja-G4pnkVJJ9Bcn6-XOP=s287-w287-h192-n-k-no-v1"
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "free_cancellation": false
+    }
+  ],
+  "ads": [
+    {
+      "name": "B&B Marina Garden",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQARoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YASABEgKWOfD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_3JI6M0Zvf7W_qWkJwJ_HC1b9uXOg&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.8,
+      "reviews": 108,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Kid-friendly",
+        "Free parking",
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Air conditioning"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Bed & Breakfast Villa Lieta Ischia",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQBRoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YAiABEgKB3PD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_3H5l2hjyFZI9quSbFsPx64ePhLfw&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.9,
+      "reviews": 138,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Air conditioning"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Bellavista Ischia",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQERoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YAyABEgJ3SfD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_1IUcOI-ATnqxx0LVi00QowCugaHA&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.5,
+      "reviews": 208,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Hot tub",
+        "Pool",
+        "Pet-friendly",
+        "Restaurant",
+        "Free parking",
+        "Bar",
+        "Airport shuttle",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Free breakfast",
+        "Air conditioning",
+        "Scuba",
+        "Bicycle rental"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Romantica Resort & Spa",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQDxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YBCABEgIlQvD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_3SzkIGC00VTqD_K7U-crKSLt1QUg&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.5,
+      "reviews": 715,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Hot tub",
+        "Spa",
+        "Pool",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Free parking",
+        "Bar",
+        "Room service",
+        "Airport shuttle",
+        "Fitness center",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Tennis",
+        "Game room",
+        "Air conditioning",
+        "Scuba",
+        "Bicycle rental"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Nettuno Hotel di Charme Ischia",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQCxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YBSABEgJQ4_D_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_0p7a9o2G0Ld70YoBpFnZb4sYHNzg&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.6,
+      "reviews": 282,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Hot tub",
+        "Pool",
+        "Free parking",
+        "Bar",
+        "Room service",
+        "Airport shuttle",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Free breakfast",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Hotel Villa Miralisa",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQCRoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YBiABEgLg9fD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_19YI8GIu-CarAjexjBoLPhwpXDtw&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.8,
+      "reviews": 397,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Hot tub",
+        "Pool",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Free parking",
+        "Bar",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Free breakfast",
+        "Air conditioning"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Internazionale Ischia",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQAxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YByABEgIihvD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_3bAMk2Zg1RDWE0EkjLoDsNZVMHzQ&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 3.8,
+      "reviews": 206,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Pool",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Free parking",
+        "Bar",
+        "Airport shuttle",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Free breakfast"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Le Querce",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQDRoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YCCABEgK5QfD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_3KPlsNgSESujxbqSMN6UdBsIVp8A&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.4,
+      "reviews": 437,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Hot tub",
+        "Beach access",
+        "Spa",
+        "Pool",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Free parking",
+        "Bar",
+        "Room service",
+        "Airport shuttle",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Free breakfast",
+        "Air conditioning"
+      ],
+      "free_cancellation": false
+    },
+    {
+      "name": "Hotel Torre Sant'Angelo",
+      "description": "",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiypMndm_iUAxU3qFoFHe4xNI8YACICCAEQBxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIsqTJ3Zv4lAMVN6haBR3uMTSPEA0YCSABEgIePfD_BwE&cid=CAASuwHkaJtUPxumC7d4CrE2Jmv_26O1E5bWOhmgsUJna5zZtrBvTtalG4zwo5gqen96gL5PCH5oqGM8jYIMD8nl1PNQyKs7MTQ49Pd4SKOzYYvQVeqHi_ghHpEKKe9BT7oiDmsH7RsBgjJfchTXOivVyJOXrEaQ0tZDiqPSzDfZsAV7kgrhD_uYelYs3zo2dHs65pRdyno-pajRRZg0o6fbz9yQlQBf3odxSPthh8ZDrTXRAYh27dgYx2pxiQfp&category=acrcp_v1_48&sig=AOD64_2-t_bvvzGd62tkrzutLGEuqtbd1Q&adurl=",
+      "extracted_hotel_class": 0,
+      "overall_rating": 4.8,
+      "reviews": 998,
+      "type": "",
+      "rate_per_night": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "total_rate": {
+        "lowest": "",
+        "extracted_lowest": 0
+      },
+      "prices": null,
+      "images": null,
+      "amenities": [
+        "Hot tub",
+        "Spa",
+        "Pool",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Free parking",
+        "Bar",
+        "Room service",
+        "Airport shuttle",
+        "Free Wi-Fi",
+        "Outdoor pool",
+        "Free breakfast",
+        "Air conditioning",
+        "Scuba",
+        "Bicycle rental"
+      ],
+      "free_cancellation": true
+    }
+  ]
+}
