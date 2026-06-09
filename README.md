@@ -6,9 +6,9 @@ by an AI agent. The free `trvl`/Google Hotels feed shows **teaser** prices that
 collapse at checkout (a real case: an Ischia hotel listed at €46/night was €269
 when you actually tried to book). This repo fixes that.
 
-It backs the two-part write-up available at the [RobertoReale/blog](https://github.com/RobertoReale/blog) repository:
-- Part 1 — *Building a budget-travel pipeline*
-- Part 2 — *A budget-travel pipeline, applied* (Includes the full reusable AI Prompt Template)
+It backs a two-part write-up:
+- Part 1 — [*Building a budget-travel pipeline*](https://blog-roberto-reale.vercel.app/article/building-a-budget-travel-pipeline)
+- Part 2 — [*A budget-travel pipeline, applied*](https://blog-roberto-reale.vercel.app/article/budget-travel-pipeline-applied) (Includes the full reusable AI Prompt Template)
 
 > 💡 New here? Open [`prompt-builder.html`](prompt-builder.html) in your browser — a no-code form
 > that writes the agent prompt for you. See [Prompt builder (GUI)](#prompt-builder-gui).
@@ -144,7 +144,9 @@ node --version      # 18 or later — needed for npx
 go version          # any recent version — needed for trvl
 ```
 
-**fli, from the fork** — the upstream repository doesn't yet have `--min-duration` / `--max-duration` (a pull request is open):
+**fli, from the fork** — the upstream repository doesn't yet have `--min-duration` / `--max-duration`
+([PR #195](https://github.com/punitarani/fli/pull/195)) or `--return-time`
+([PR #196](https://github.com/punitarani/fli/pull/196)):
 
 ```bash
 pip install git+https://github.com/RobertoReale/fli.git@feature/window-duration

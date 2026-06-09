@@ -1,12 +1,14 @@
 {
   "mcpServers": {
     "fli": {
-      "command": "uv",
-      "args": ["run", "--directory", "C:\\Users\\Admin\\Downloads\\fli", "fli-mcp"]
+      "command": "fli-mcp"
     },
     "trvl": {
-      "command": "C:\\Users\\Admin\\go\\bin\\trvl.exe",
+      "command": "trvl",
       "args": ["mcp"]
+    },
+    "hotel-rates": {
+      "command": "hotel-rates-mcp"
     }
   }
 }

@@ -1,6 +1,5 @@
 import subprocess, json, os, sys
 
-FLI_DIR = r"C:\Users\Admin\Downloads\fli"
 AIRPORTS = ["BGY", "MXP", "LIN"]          # the three Milan airports, searched separately
 DESTS = {
     "NAP": "Naples (Ischia/Procida)",
@@ -21,7 +20,7 @@ raw = {}
 
 for dest, label in DESTS.items():
     for orig in AIRPORTS:
-        cmd = ["uv", "run", "--directory", FLI_DIR, "fli", "dates", orig, dest,
+        cmd = ["fli", "dates", orig, dest,
                "--round", "--min-duration", MIN_N, "--max-duration", MAX_N,
                "--from", FROM, "--to", TO, "--currency", "EUR", "--sort", "--format", "json"]
         try:
