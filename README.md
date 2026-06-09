@@ -71,6 +71,7 @@ console summary. Sample outputs are committed there.
 | `--providers "A,B"` | whitelist specific OTAs |
 | `--check-links` | HEAD-validate each booking link and drop dead ones |
 | `--no-cache` | bypass the on-disk cache and force fresh calls |
+| `--gl CC` | SerpAPI country code for localised pricing (default `us`; use `it` for Italy, `es` for Spain, etc.) |
 
 ## Two kinds of tax
 

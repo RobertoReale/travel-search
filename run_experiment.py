@@ -9,7 +9,7 @@ DESTS = {
     "SPU": "Split (Croatia)",
 }
 FROM, TO = "2026-07-22", "2026-08-01"      # latest departure Aug 1 + 5 nights = return Aug 6
-MIN_N, MAX_N = "5", "5"
+MIN_N, MAX_N = 5, 5
 
 os.environ["PYTHONIOENCODING"] = "utf-8"
 outdir = os.path.join(os.path.dirname(__file__), "results")
@@ -21,7 +21,7 @@ raw = {}
 for dest, label in DESTS.items():
     for orig in AIRPORTS:
         cmd = ["fli", "dates", orig, dest,
-               "--round", "--min-duration", MIN_N, "--max-duration", MAX_N,
+               "--round", "--min-duration", str(MIN_N), "--max-duration", str(MAX_N),
                "--from", FROM, "--to", TO, "--currency", "EUR", "--sort", "--format", "json"]
         try:
             p = subprocess.run(cmd, capture_output=True, text=True, timeout=120)

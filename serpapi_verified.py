@@ -33,7 +33,7 @@ Notes:
   - Tourist tax is collected at the property and is in NO
     online total; it is left out entirely here rather than guessed at.
 """
-import argparse, hashlib, json, os, sys, urllib.request, urllib.error, urllib.parse, time, re
+import argparse, hashlib, json, os, sys, urllib.request, urllib.error, urllib.parse, time
 from datetime import date
 
 BASE = "https://serpapi.com/search.json"
@@ -141,11 +141,6 @@ def booking_search_link(name, checkin, checkout, adults):
     return "https://www.booking.com/searchresults.html?" + q
 
 
-def num(s):
-    m = re.findall(r"[\d.]+", (s or "").replace(",", ""))
-    return float(m[0]) if m else 9e18
-
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("location")
@@ -162,6 +157,9 @@ def main():
     ap.add_argument("--check-links", action="store_true",
                     help="HTTP-validate each booking link (HEAD request) and drop dead ones; "
                          "slower, off by default")
+    ap.add_argument("--gl", default="us",
+                    help="SerpAPI country code for localised pricing (default: us). "
+                         "Use 'it' for Italy, 'es' for Spain, etc.")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
     use_cache = not args.no_cache
@@ -177,7 +175,7 @@ def main():
     nights = nights_between(args.checkin, args.checkout)
     common = dict(engine="google_hotels", q=args.location,
                   check_in_date=args.checkin, check_out_date=args.checkout,
-                  adults=args.adults, currency=args.currency, gl="it", hl="en", api_key=key)
+                  adults=args.adults, currency=args.currency, gl=args.gl, hl="en", api_key=key)
 
     listing = call(common, use_cache=use_cache)
     props = listing.get("properties", [])

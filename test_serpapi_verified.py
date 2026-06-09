@@ -61,12 +61,6 @@ def test_nights_between_never_below_one():
     assert sv.nights_between("garbage", "2026-08-04") == 1
 
 
-def test_num_parses_first_number_and_handles_thousands():
-    assert sv.num("$1,084") == 1084.0
-    assert sv.num("EUR 643") == 643.0
-    assert sv.num(None) == 9e18  # sentinel pushes missing prices to the bottom
-
-
 def test_booking_search_link_is_a_stable_booking_url():
     link = sv.booking_search_link("Hotel Da Maria", "2026-07-30", "2026-08-04", "2")
     assert link.startswith("https://www.booking.com/searchresults.html?")
