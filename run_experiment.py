@@ -25,6 +25,9 @@ for dest, label in DESTS.items():
                "--from", FROM, "--to", TO, "--currency", "EUR", "--sort", "--format", "json"]
         try:
             p = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+            if p.returncode != 0:
+                print(f"  {orig}->{dest}: fli exited {p.returncode}: {(p.stderr or p.stdout).strip()}")
+                continue
             data = json.loads(p.stdout)
         except Exception as e:
             print(f"  {orig}->{dest}: ERROR {e}")

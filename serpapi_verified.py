@@ -89,7 +89,7 @@ def link_ok(url, timeout=8):
         req = urllib.request.Request(url, method="HEAD",
                                      headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            return getattr(r, "status", 200) < 400
+            return r.status < 400
     except Exception:
         return False
 

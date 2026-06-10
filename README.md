@@ -1,7 +1,7 @@
 # travel-search — verified, bookable accommodation prices
 
 Post-processing tools for a budget-travel pipeline: cheap flights via
-[`fli`](https://github.com/punitarani/fli), accommodation via `trvl`, orchestrated
+[`fli`](https://github.com/punitarani/fli), accommodation via [`trvl`](https://github.com/MikkoParkkola/trvl), orchestrated
 by an AI agent. The free `trvl`/Google Hotels feed shows **teaser** prices that
 collapse at checkout (a real case: an Ischia hotel listed at €46/night was €269
 when you actually tried to book). This repo fixes that.
@@ -145,13 +145,13 @@ node --version      # 18 or later — needed for npx
 go version          # any recent version — needed for trvl
 ```
 
-**fli, from the fork** — the upstream repository doesn't yet have `--min-duration` / `--max-duration`
-([PR #195](https://github.com/punitarani/fli/pull/195)) or `--return-time`
-([PR #196](https://github.com/punitarani/fli/pull/196)):
+**fli, from the fork** — I contributed `--min-duration` / `--max-duration`
+([PR #195](https://github.com/punitarani/fli/pull/195)) and `--return-time`
+([PR #196](https://github.com/punitarani/fli/pull/196)) to upstream; both PRs are still open, so the project installs from my fork:
 
 ```bash
 pip install git+https://github.com/RobertoReale/fli.git@feature/window-duration
-fli dates --help    # verify --min-duration and --max-duration appear
+fli dates --help    # verify --min-duration, --max-duration, and --return-time appear
 ```
 
 *Windows only:* set `PYTHONIOENCODING=utf-8` before any `fli` command, or you'll get encoding errors on destination names.
