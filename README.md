@@ -6,9 +6,10 @@ by an AI agent. The free `trvl`/Google Hotels feed shows **teaser** prices that
 collapse at checkout (a real case: an Ischia hotel listed at €46/night was €269
 when you actually tried to book). This repo fixes that.
 
-It backs a two-part write-up:
+It backs a three-part write-up:
 - Part 1 — [*Building a budget-travel pipeline*](https://blog-roberto-reale.vercel.app/article/building-a-budget-travel-pipeline)
-- Part 2 — [*A budget-travel pipeline, applied*](https://blog-roberto-reale.vercel.app/article/budget-travel-pipeline-applied) (Includes the full reusable AI Prompt Template)
+- Part 2 — [*A budget-travel pipeline, applied*](https://blog-roberto-reale.vercel.app/article/budget-travel-pipeline-applied)
+- Part 3 — [*After the articles: an open source arc, two fixes, and the updated setup guide*](https://blog-roberto-reale.vercel.app/article/budget-travel-pipeline-fixed) ← **use the prompt from here**
 
 > 💡 New here? Open [`prompt-builder.html`](prompt-builder.html) in your browser — a no-code form
 > that writes the agent prompt for you. See [Prompt builder (GUI)](#prompt-builder-gui).
@@ -105,8 +106,8 @@ field removed, so cached files contain no secret.
 ## Full AI Budget Travel Pipeline
 
 This is the complete, runnable build behind the blog write-up: `fli` for flights, `trvl`
-for accommodation, this script (or `hotel-rates-mcp`) for verified prices, and an AI agent
-tying them together. A no-code **[prompt builder](#prompt-builder-gui)** is included to fill
+for accommodation, `serpapi_verified.py` for per-provider verified prices and booking deeplinks,
+and an AI agent tying them together. A no-code **[prompt builder](#prompt-builder-gui)** is included to fill
 in the template below.
 
 ### Prompt builder (GUI)
@@ -172,13 +173,7 @@ export SERPAPI_KEY="your_key_here"     # PowerShell: $env:SERPAPI_KEY="your_key_
 trvl serpapi "Ischia" --checkin 2026-07-30 --checkout 2026-08-04 --currency EUR --format json
 ```
 
-If the prices it returns differ sharply from the free `trvl hotels` numbers, that's the teaser-vs-verified gap from the section above — trust the SerpAPI ones.
-
-**hotel-rates-mcp (for agentic verification):**
-
-```bash
-pip install git+https://github.com/RobertoReale/hotel-rates-mcp.git
-```
+If the prices differ sharply from the free `trvl hotels` numbers, `trvl serpapi` corrects in the right direction — but for peak-season island destinations, expect a residual gap of 10–25 % between the Google Hotels minimum and the cheapest bookable room. For per-provider totals with direct booking links, run `serpapi_verified.py` (see below). As of trvl v1.9.2, `trvl prices <google_place_id>` with SerpAPI configured returns a verified per-provider matrix. The name-based fallback (`trvl prices "Hotel Name" --location "..."`) is now safer — v1.9.2 matches the returned hotel name against the requested name and returns `providers: null` on mismatch — but for automated pipelines, `trvl prices <place_id>` remains the reliable path.
 
 **`.mcp.json`:**
 
@@ -191,9 +186,6 @@ pip install git+https://github.com/RobertoReale/hotel-rates-mcp.git
     "trvl": {
       "command": "trvl",
       "args": ["mcp"]
-    },
-    "hotel-rates": {
-      "command": "hotel-rates-mcp"
     }
   }
 }
@@ -213,7 +205,7 @@ Verify all three servers are connected:
 /mcp
 ```
 
-`fli`, `trvl`, and `hotel-rates` should show as `connected`. If any show `pending`, wait a few seconds and check again.
+`fli` and `trvl` should show as `connected`. If any show `pending`, wait a few seconds and check again.
 
 ---
 
@@ -282,11 +274,15 @@ For the top [e.g. 5] flight options, search accommodation at the actual destinat
 - Filters: apply all [Accommodation] preferences (General, Perks, Rentals) to your search natively where the tool supports them.
 - Budget: apply the Accommodation max budget to the verified total ÷ nights (if no budget is set, rank purely by total trip cost).
 
-Then VERIFY every shortlisted hotel with the hotel-rates verified_hotel_prices tool before
-ranking — the free trvl prices are Google Hotels teasers, not bookable rates.
+Use trvl serpapi (not trvl hotels) — the free trvl hotels prices are Google Hotels teasers,
+not bookable rates. trvl serpapi routes through SerpAPI and returns verified prices
+(price_confidence: verified). Rank on the SerpAPI-verified total, never the teaser.
+If a Google place ID is available for a shortlisted hotel (visible in trvl hotels --format json),
+use trvl prices <place_id> to get the per-provider matrix and OTA links.
 Apply the "Trusted Providers" whitelist (if not ALL) and the "Verify Links" flag.
 For each kept hotel, record the verified total (taxes incl.) and a working
-per-provider booking link.
+per-provider booking link. Hotels returning providers: null need post-processing
+with serpapi_verified.py for reliable booking deeplinks.
 
 Save raw results per date window to results/hotels_[dates].json.
 
