@@ -148,7 +148,7 @@ go version          # any recent version — needed for trvl
 
 **fli, from the fork** — I contributed `--min-duration` / `--max-duration`
 ([PR #195](https://github.com/punitarani/fli/pull/195)) and `--return-time`
-([PR #196](https://github.com/punitarani/fli/pull/196)) to upstream; both PRs are still open, so the project installs from my fork:
+([PR #196](https://github.com/punitarani/fli/pull/196)) to upstream; both PRs are still open. As of trvl v1.10.0, `trvl dates` now natively supports `--min-duration` and `--max-duration` ([trvl PR #174](https://github.com/MikkoParkkola/trvl/pull/174)), so the fork is only required if you also need `--return-time`:
 
 ```bash
 pip install git+https://github.com/RobertoReale/fli.git@feature/window-duration
@@ -157,7 +157,7 @@ fli dates --help    # verify --min-duration, --max-duration, and --return-time a
 
 *Windows only:* set `PYTHONIOENCODING=utf-8` before any `fli` command, or you'll get encoding errors on destination names.
 
-**trvl:**
+**trvl (v1.10.0+):**
 
 ```bash
 go install github.com/MikkoParkkola/trvl/cmd/trvl@latest
@@ -173,7 +173,7 @@ export SERPAPI_KEY="your_key_here"     # PowerShell: $env:SERPAPI_KEY="your_key_
 trvl serpapi "Ischia" --checkin 2026-07-30 --checkout 2026-08-04 --currency EUR --format json
 ```
 
-If the prices differ sharply from the free `trvl hotels` numbers, `trvl serpapi` corrects in the right direction — but for peak-season island destinations, expect a residual gap of 10–25 % between the Google Hotels minimum and the cheapest bookable room. For per-provider totals with direct booking links, run `serpapi_verified.py` (see below). As of trvl v1.9.2, `trvl prices <google_place_id>` with SerpAPI configured returns a verified per-provider matrix. The name-based fallback (`trvl prices "Hotel Name" --location "..."`) is now safer — v1.9.2 matches the returned hotel name against the requested name and returns `providers: null` on mismatch — but for automated pipelines, `trvl prices <place_id>` remains the reliable path.
+If the prices differ sharply from the free `trvl hotels` numbers, `trvl serpapi` corrects in the right direction — but for peak-season island destinations, expect a residual gap of 10–25 % between the Google Hotels minimum and the cheapest bookable room. For per-provider totals with direct booking links, run `serpapi_verified.py` (see below). As of trvl v1.10.0, `trvl prices` output includes `tourist_tax_note` (a reminder that local tourist tax is paid in cash and not included in any online total) and `tax_added_at_checkout` (a per-provider flag for OTAs that show pre-tax prices). The name-based fallback (`trvl prices "Hotel Name" --location "..."`) is safe — v1.9.2+ matches the returned hotel name against the requested name and returns `providers: null` on mismatch — but for automated pipelines, `trvl prices <place_id>` remains the most reliable path.
 
 **`.mcp.json`:**
 
