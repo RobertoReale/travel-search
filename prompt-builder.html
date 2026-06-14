@@ -109,7 +109,7 @@
     <p>Fill in the form, copy the prompt it writes, and paste it into your AI agent (e.g. Claude Code)
        running in the project folder. Companion to
        <a href="https://github.com/RobertoReale/travel-search" target="_blank" rel="noopener">travel-search</a>
-       and the <a href="https://github.com/RobertoReale/blog" target="_blank" rel="noopener">two-part write-up</a>.</p>
+       and the <a href="https://github.com/RobertoReale/blog" target="_blank" rel="noopener">three-part write-up</a>.</p>
     <div class="steps">
       <span class="step"><b>1</b> Fill the fields</span>
       <span class="step"><b>2</b> Copy the prompt →</span>
@@ -335,8 +335,8 @@
 </div>
 
 <footer>
-  Tip: the prompt assumes <code>fli</code>, <code>trvl</code> and <code>hotel-rates</code> are wired in <code>.mcp.json</code>,
-  and that you run the agent from inside the project folder. See the README for setup.
+  Tip: the prompt assumes <code>trvl</code> is wired in <code>.mcp.json</code> and that you run the agent from inside the project folder.
+  Add <code>fli</code> only if you need <code>--return-time</code> filtering. See the README for setup.
 </footer>
 
 <script>
@@ -392,7 +392,7 @@ function buildPrompt(){
 
   let s = "Budget travel pipeline\n\n";
   s += "TRIP VARIABLES\n";
-  s += `- Departure airports: ${v("airports")||"[e.g. BGY, MXP, LIN]"} (fli needs airport codes, search each as a separate roundtrip)\n`;
+  s += `- Departure airports: ${v("airports")||"[e.g. BGY, MXP, LIN]"} (IATA airport codes; search each as a separate roundtrip)\n`;
   s += `- Overall availability: ${avail()} (earliest you can leave – latest you must be back)\n`;
   s += `- Stay duration: ${stayStr()} nights\n`;
   s += `- Travellers / Guests: ${v("travellers")||"[e.g. 2]"} adults\n`;
@@ -430,11 +430,12 @@ function buildPrompt(){
   }
 
   s += `
-Step 1 — Flights (fli MCP server)
+Step 1 — Flights (trvl MCP server)
 Using the TRIP VARIABLES and ADVANCED FILTERS above:
-- Search each Departure airport as a separate roundtrip using the search_dates tool.
+- Search each Departure airport as a separate roundtrip using the find_trip_window tool.
+- Set min-duration and max-duration from the Stay duration range (same value = fixed length).
 - Calculate the outbound search window: start date = start of Overall availability. end date = end of Overall availability MINUS Stay duration.
-- Map Stay duration, Travellers, and time preferences to the tool's arguments.
+- Map Travellers to the adults argument.
 - Apply all specified [Flights] filters (Stops, Class, Airlines, Alliances, Layover) to the tool.
 - Multiply the single adult fare by Travellers for the trip total.
 Sort by cheapest roundtrip. Save all results to results/flights.md.
@@ -446,10 +447,15 @@ For the top ${top} flight options, search accommodation at the actual destinatio
 - Filters: apply all [Accommodation] preferences (General, Perks, Rentals) to your search natively where the tool supports them.
 - Budget: apply the Accommodation max budget to the verified total ÷ nights (if no budget is set, rank purely by total trip cost).
 
-Then VERIFY every shortlisted hotel with the hotel-rates verified_hotel_prices tool before
-ranking — the free trvl prices are Google Hotels teasers, not bookable rates.
+Use trvl serpapi (not trvl hotels) — the free trvl hotels prices are Google Hotels teasers,
+not bookable rates. trvl serpapi routes through SerpAPI and returns verified prices
+(price_confidence: verified). Rank on the SerpAPI-verified total, never the teaser.
+If a Google place ID is available for a shortlisted hotel (visible in trvl hotels --format json),
+use trvl prices <place_id> to get the per-provider matrix and OTA links. v1.10.0 adds
+booking_fallback_url (durable Booking.com deeplink) and link_durability tagging to this output.
 Apply the "Trusted Providers" whitelist (if not ALL) and the "Verify Links" flag.
 For each kept hotel, record the verified total (taxes incl.) and a working per-provider booking link.
+Hotels returning providers: null need post-processing with serpapi_verified.py for reliable booking deeplinks.
 
 Save raw results per date window to results/hotels_[dates].json.
 
